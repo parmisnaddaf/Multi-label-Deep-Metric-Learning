@@ -1,0 +1,68 @@
+{"model_layers": [1836, 3500, 30], "embedding_dim": 30, "load_model_from": "", "resume_from": 0, "num_epochs": 160, "checkpoint_every": 20, "batch_sizes": [[0, 500]], "max_triplets_per_anchor": [[0, 100], [50, 75], [200, 200]], "max_negatives_per_positive": [[0, 3], [10, 6], [30, 12]], "trips_margin": [[0, 0.0]], "lrates": [[0, 0.01], [100, 0.001]], "num_neighbours": 20, "disc": 0}
+######
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.5327868852459017,0.3318154219793564,0.25428051001821494,0.06103264954417649,16.077868852459016,0.48059334591192976,0.025448909029364586,0.0,trn
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.4323770491803279,0.2527322404371585,0.1901639344262295,0.300241796842965,74.73155737704919,0.35459727933429314,0.0,0.0,val
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.5858378870673953,0.3668791742562234,0.2772313296903461,0.051040872592334606,14.101775956284152,0.5334547374498287,0.0053766160272061825,1.0,trn
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.47950819672131145,0.28688524590163933,0.2209016393442623,0.24665231698005546,64.62704918032787,0.40477796685842915,0.0,1.0,val
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.6158925318761385,0.3847905282331512,0.28793260473588345,0.04624726024852277,13.422131147540984,0.5616529925678406,0.003085712669417262,2.0,trn
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.4774590163934426,0.28825136612021857,0.22131147540983606,0.25583985102461543,63.704918032786885,0.41661871157143393,0.0,2.0,val
+{"model_layers": [1836, 3500, 30], "embedding_dim": 30, "load_model_from": "", "resume_from": 0, "num_epochs": 160, "checkpoint_every": 20, "batch_sizes": [[0, 500]], "max_triplets_per_anchor": [[0, 100], [50, 75], [200, 200]], "max_negatives_per_positive": [[0, 3], [10, 6], [30, 12]], "trips_margin": [[0, 0.0]], "lrates": [[0, 0.01], [100, 0.001]], "num_neighbours": 20, "disc": 0}
+######
+{"model_layers": [1836, 3500, 30], "embedding_dim": 30, "load_model_from": "", "resume_from": 0, "num_epochs": 10, "checkpoint_every": 4, "batch_sizes": [[0, 500]], "max_triplets_per_anchor": [[0, 100], [50, 75], [200, 200]], "max_negatives_per_positive": [[0, 3], [10, 6], [30, 12]], "trips_margin": [[0, 0.0]], "lrates": [[0, 0.01], [100, 0.001]], "num_neighbours": 20, "disc": 0}
+######
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.543488160291439,0.33598967820279296,0.25778688524590165,0.06068670331599202,16.002959927140257,0.4837379477088561,0.026591235771775246,0.0,trn
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.4405737704918033,0.25341530054644806,0.1954918032786885,0.2997477853128781,73.6577868852459,0.35782917440287665,0.0,0.0,val
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.5817395264116576,0.3715846994535519,0.27923497267759567,0.0496855555856989,13.86452641165756,0.5374580587305186,0.004808477126061916,1.0,trn
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.4979508196721312,0.28620218579234974,0.21229508196721308,0.2540498120309335,63.96106557377049,0.4133564412182345,0.0,1.0,val
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.61908014571949,0.3901032179720704,0.2949453551912568,0.04426032478245816,12.937158469945356,0.5696655656037778,0.0029481167439371347,2.0,trn
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.47950819672131145,0.29303278688524587,0.2209016393442623,0.2578450702625062,64.34836065573771,0.41805045427087745,0.0,2.0,val
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.6514116575591985,0.40649666059502126,0.30250455373406193,0.04012926075663062,12.10132058287796,0.5931077781910801,0.002019559731706977,3.0,trn
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.5163934426229508,0.30532786885245905,0.22827868852459016,0.23661689338910685,61.96311475409836,0.44314679736417567,0.0,3.0,val
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.6730418943533698,0.4238008500303582,0.31316029143897994,0.036345832847198084,11.462659380692168,0.6218897583296288,0.0014134400989860296,4.0,trn
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.5594262295081968,0.32172131147540983,0.23975409836065573,0.21693634974897863,58.62909836065574,0.4648283280089169,0.0,4.0,val
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.6871584699453552,0.4270643594414086,0.31434426229508194,0.035294581324126564,11.285063752276868,0.6307601362333046,0.0011706091463565826,5.0,trn
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.5225409836065574,0.3155737704918033,0.2377049180327869,0.22661947653262626,59.99590163934426,0.44827318071906685,0.0,5.0,val
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.6980874316939891,0.43404675166970247,0.3188069216757741,0.03328476454385817,10.780510018214937,0.6437932785557793,0.0009315849165432155,6.0,trn
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.5327868852459017,0.3251366120218579,0.23442622950819675,0.2337296046889672,62.85655737704918,0.4621791394154355,0.0,6.0,val
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.7110655737704918,0.4444444444444444,0.3253642987249544,0.03181848441375344,10.58674863387978,0.6599875875793461,0.0007839411264285445,7.0,trn
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.5327868852459017,0.33196721311475413,0.24959016393442623,0.21244547506571265,57.700819672131146,0.4735700186964263,0.0,7.0,val
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.7392987249544627,0.45696721311475413,0.33360655737704914,0.028442986757286376,9.891621129326047,0.6823544312690668,0.0007106651901267469,8.0,trn
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.5225409836065574,0.32923497267759566,0.24221311475409837,0.227404838960097,60.657786885245905,0.4712146940512477,0.0,8.0,val
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.7484061930783242,0.4652398299939284,0.33620218579234973,0.02744999766685198,9.717213114754099,0.6932413179524686,0.0006152932182885706,9.0,trn
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.5245901639344263,0.31898907103825136,0.24057377049180326,0.23116879376080562,61.153688524590166,0.45729538389813335,0.0,9.0,val
+{"model_layers": [1836, 3500, 30], "embedding_dim": 30, "load_model_from": "", "resume_from": 0, "num_epochs": 160, "checkpoint_every": 20, "batch_sizes": [[0, 500]], "max_triplets_per_anchor": [[0, 100], [50, 75], [200, 200]], "max_negatives_per_positive": [[0, 3], [10, 6], [30, 12]], "trips_margin": [[0, 0.0]], "lrates": [[0, 0.01], [100, 0.001]], "num_neighbours": 20, "disc": 0}
+######
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.5389344262295082,0.32991803278688525,0.25341530054644806,0.06136455311767559,16.033242258652095,0.481606397308908,0.029014136642217636,0.0,trn
+p@1,p@3,p@5,ranking_loss,coverage_error,avg_prec_score,loss,epoch,trn/val
+0.4344262295081967,0.2506830601092896,0.1959016393442623,0.29679894097191933,73.13729508196721,0.3631525686007351,0.0,0.0,val
+{"model_layers": [1836, 3500, 30], "embedding_dim": 30, "load_model_from": "", "resume_from": 0, "num_epochs": 160, "checkpoint_every": 20, "batch_sizes": [[0, 500]], "max_triplets_per_anchor": [[0, 100], [50, 75], [200, 200]], "max_negatives_per_positive": [[0, 3], [10, 6], [30, 12]], "trips_margin": [[0, 0.0]], "lrates": [[0, 0.01], [100, 0.001]], "num_neighbours": 20, "disc": 0}
+######
+{"model_layers": [1836, 3500, 30], "embedding_dim": 30, "load_model_from": "", "resume_from": 0, "num_epochs": 160, "checkpoint_every": 20, "batch_sizes": [[0, 500]], "max_triplets_per_anchor": [[0, 100], [50, 75], [200, 200]], "max_negatives_per_positive": [[0, 3], [10, 6], [30, 12]], "trips_margin": [[0, 0.0]], "lrates": [[0, 0.01], [100, 0.001]], "num_neighbours": 20, "disc": 0}
+######
