@@ -1,0 +1,2717 @@
+Epoch  0 (0, 500, 0.001, 100, 3)
+Batch size : 52346 , Loss value : 0.3942533
+Batch size : 52720 , Loss value : 0.2757553
+Batch size : 52289 , Loss value : 0.1334202
+Batch size : 52431 , Loss value : 0.08674308
+Batch size : 52304 , Loss value : 0.07362715
+Batch size : 52397 , Loss value : 0.06139385
+Batch size : 52523 , Loss value : 0.050764754
+Batch size : 52468 , Loss value : 0.042621635
+Batch size : 52280 , Loss value : 0.03918671
+Batch size : 52193 , Loss value : 0.030022435
+Batch size : 52651 , Loss value : 0.027275909
+Batch size : 52154 , Loss value : 0.025357686
+	Train Loss for this epoch : 0.1033685
+	Train Accuracy for this epoch: 0.8395187601957586
+	Validation Accuracy for this epoch: 0.7900188323917138
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 0
+
+        p@1      p@3       p@5      loss  epoch trn/val
+0  0.368329  0.34098  0.285168  0.103368    0.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.272959  0.271259  0.239796   0.0    0.0     val
+============================================================
+Epoch  1 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 52247 , Loss value : 0.024193779
+Batch size : 52175 , Loss value : 0.08100736
+Batch size : 52591 , Loss value : 0.05083429
+Batch size : 52227 , Loss value : 0.041751463
+Batch size : 52397 , Loss value : 0.0431651
+Batch size : 52399 , Loss value : 0.0352121
+Batch size : 52944 , Loss value : 0.030004084
+Batch size : 52340 , Loss value : 0.028476382
+Batch size : 52358 , Loss value : 0.026045155
+Batch size : 52450 , Loss value : 0.02389415
+Batch size : 52478 , Loss value : 0.022510346
+Batch size : 52416 , Loss value : 0.018663362
+	Train Loss for this epoch : 0.0354798
+	Train Accuracy for this epoch: 0.8549871824749475
+	Validation Accuracy for this epoch: 0.7966101694915254
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 1
+
+       p@1       p@3       p@5     loss  epoch trn/val
+0  0.37741  0.339865  0.284308  0.03548    1.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.274235  0.283588  0.247704   0.0    1.0     val
+============================================================
+Epoch  2 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 52954 , Loss value : 0.016201481
+Batch size : 52440 , Loss value : 0.024968179
+Batch size : 52276 , Loss value : 0.02056415
+Batch size : 52702 , Loss value : 0.016345691
+Batch size : 53641 , Loss value : 0.016813936
+Batch size : 52416 , Loss value : 0.01586583
+Batch size : 52512 , Loss value : 0.012881235
+Batch size : 52589 , Loss value : 0.0131094195
+Batch size : 52767 , Loss value : 0.012761064
+Batch size : 52539 , Loss value : 0.011876257
+Batch size : 52303 , Loss value : 0.011269083
+Batch size : 53068 , Loss value : 0.010678382
+	Train Loss for this epoch : 0.015277891
+	Train Accuracy for this epoch: 0.8662025168958285
+	Validation Accuracy for this epoch: 0.8119114877589454
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 2
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.386809  0.343954  0.285965  0.015278    2.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.285714  0.281888  0.245153   0.0    2.0     val
+============================================================
+Epoch  3 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 53427 , Loss value : 0.0111340545
+Batch size : 52330 , Loss value : 0.022874821
+Batch size : 54206 , Loss value : 0.013114022
+Batch size : 52885 , Loss value : 0.015921071
+Batch size : 53088 , Loss value : 0.0148482155
+Batch size : 53647 , Loss value : 0.011513066
+Batch size : 52684 , Loss value : 0.011878278
+Batch size : 53037 , Loss value : 0.012181366
+Batch size : 52680 , Loss value : 0.010820593
+Batch size : 53401 , Loss value : 0.010739608
+Batch size : 52666 , Loss value : 0.008578001
+Batch size : 52601 , Loss value : 0.009090064
+	Train Loss for this epoch : 0.012724429
+	Train Accuracy for this epoch: 0.8705138662316476
+	Validation Accuracy for this epoch: 0.8133239171374764
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 3
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.382667  0.337316  0.283766  0.012724    3.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.284439  0.280187  0.243622   0.0    3.0     val
+============================================================
+Epoch  4 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 52928 , Loss value : 0.009960534
+Batch size : 52755 , Loss value : 0.018915819
+Batch size : 52431 , Loss value : 0.011760043
+Batch size : 54579 , Loss value : 0.012316279
+Batch size : 52780 , Loss value : 0.009533383
+Batch size : 52547 , Loss value : 0.011228001
+Batch size : 52928 , Loss value : 0.010622379
+Batch size : 53154 , Loss value : 0.008538986
+Batch size : 54836 , Loss value : 0.0079471925
+Batch size : 52594 , Loss value : 0.007496318
+Batch size : 61184 , Loss value : 0.008005446
+Batch size : 57965 , Loss value : 0.0077377777
+	Train Loss for this epoch : 0.010338514
+	Train Accuracy for this epoch: 0.8764274061990212
+	Validation Accuracy for this epoch: 0.8192090395480226
+model saved!
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 4
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.380277  0.337316  0.283543  0.010339    4.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.288265  0.278486  0.244133   0.0    4.0     val
+============================================================
+Epoch  5 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 53895 , Loss value : 0.0065001915
+Batch size : 52562 , Loss value : 0.014508557
+Batch size : 53602 , Loss value : 0.009426071
+Batch size : 52380 , Loss value : 0.009797169
+Batch size : 52800 , Loss value : 0.00872635
+Batch size : 54014 , Loss value : 0.007497699
+Batch size : 54265 , Loss value : 0.008150385
+Batch size : 53560 , Loss value : 0.00808299
+Batch size : 52632 , Loss value : 0.007083853
+Batch size : 53158 , Loss value : 0.0067055137
+Batch size : 54818 , Loss value : 0.0058182795
+Batch size : 55664 , Loss value : 0.0055315057
+	Train Loss for this epoch : 0.008152381
+	Train Accuracy for this epoch: 0.8766604521090655
+	Validation Accuracy for this epoch: 0.8213276836158192
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 5
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.387128  0.338909  0.283607  0.008152    5.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.308673  0.284014  0.245663   0.0    5.0     val
+============================================================
+Epoch  6 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 53716 , Loss value : 0.0059999656
+Batch size : 52961 , Loss value : 0.010688734
+Batch size : 53767 , Loss value : 0.008880462
+Batch size : 54614 , Loss value : 0.0065281317
+Batch size : 52771 , Loss value : 0.0068779406
+Batch size : 55500 , Loss value : 0.0067692036
+Batch size : 56448 , Loss value : 0.006022601
+Batch size : 53969 , Loss value : 0.0055183945
+Batch size : 53087 , Loss value : 0.0053365515
+Batch size : 55307 , Loss value : 0.005527452
+Batch size : 53676 , Loss value : 0.004929794
+Batch size : 54611 , Loss value : 0.005007794
+	Train Loss for this epoch : 0.006507253
+	Train Accuracy for this epoch: 0.883331391284083
+	Validation Accuracy for this epoch: 0.821798493408663
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 6
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.376613  0.335033  0.281982  0.006507    6.0     trn
+        p@1       p@3      p@5  loss  epoch trn/val
+0  0.307398  0.289116  0.24949   0.0    6.0     val
+============================================================
+Epoch  7 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 53905 , Loss value : 0.004843807
+Batch size : 52427 , Loss value : 0.007881711
+Batch size : 53299 , Loss value : 0.0054887827
+Batch size : 53451 , Loss value : 0.0062628333
+Batch size : 56920 , Loss value : 0.005433139
+Batch size : 53838 , Loss value : 0.0057797134
+Batch size : 56374 , Loss value : 0.0058604246
+Batch size : 59761 , Loss value : 0.0044811578
+Batch size : 54167 , Loss value : 0.0043807547
+Batch size : 58826 , Loss value : 0.003908944
+Batch size : 54185 , Loss value : 0.0036257552
+Batch size : 56246 , Loss value : 0.00407175
+	Train Loss for this epoch : 0.005168231
+	Train Accuracy for this epoch: 0.8822826846888837
+	Validation Accuracy for this epoch: 0.8258003766478342
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 7
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.378843  0.333758  0.280867  0.005168    7.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.280612  0.281037  0.242092   0.0    7.0     val
+============================================================
+Epoch  8 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 58115 , Loss value : 0.004036298
+Batch size : 52553 , Loss value : 0.007108723
+Batch size : 52708 , Loss value : 0.0062544905
+Batch size : 53422 , Loss value : 0.0056026243
+Batch size : 54030 , Loss value : 0.005223575
+Batch size : 59531 , Loss value : 0.0041990066
+Batch size : 56002 , Loss value : 0.0045564026
+Batch size : 57240 , Loss value : 0.003967644
+Batch size : 56156 , Loss value : 0.0037872116
+Batch size : 56038 , Loss value : 0.0039039126
+Batch size : 60025 , Loss value : 0.0037856414
+Batch size : 55076 , Loss value : 0.0037968273
+	Train Loss for this epoch : 0.0046851966
+	Train Accuracy for this epoch: 0.8882836168725239
+	Validation Accuracy for this epoch: 0.8253295668549906
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 8
+
+        p@1       p@3      p@5      loss  epoch trn/val
+0  0.381392  0.334289  0.28058  0.004685    8.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.294643  0.275085  0.244898   0.0    8.0     val
+============================================================
+Epoch  9 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 66341 , Loss value : 0.0029095928
+Batch size : 52572 , Loss value : 0.006479149
+Batch size : 58133 , Loss value : 0.0042992816
+Batch size : 54339 , Loss value : 0.0047424044
+Batch size : 55545 , Loss value : 0.0043435483
+Batch size : 54008 , Loss value : 0.0041567273
+Batch size : 59359 , Loss value : 0.003332235
+Batch size : 59060 , Loss value : 0.0033379628
+Batch size : 61540 , Loss value : 0.0029258602
+Batch size : 53921 , Loss value : 0.004081524
+Batch size : 58001 , Loss value : 0.0036009885
+Batch size : 53261 , Loss value : 0.0037417756
+	Train Loss for this epoch : 0.003995921
+	Train Accuracy for this epoch: 0.8914588673968772
+	Validation Accuracy for this epoch: 0.8279190207156308
+model saved!
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 9
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.377888  0.335935  0.282173  0.003996    9.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.303571  0.284439  0.246173   0.0    9.0     val
+============================================================
+Epoch  10 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 67570 , Loss value : 0.0023914187
+Batch size : 54100 , Loss value : 0.0060735154
+Batch size : 54155 , Loss value : 0.0036387998
+Batch size : 62515 , Loss value : 0.0034921498
+Batch size : 54035 , Loss value : 0.003922139
+Batch size : 56548 , Loss value : 0.0034950713
+Batch size : 63335 , Loss value : 0.0028484934
+Batch size : 59318 , Loss value : 0.0028957261
+Batch size : 61014 , Loss value : 0.0026086366
+Batch size : 56387 , Loss value : 0.00271231
+Batch size : 62515 , Loss value : 0.002487664
+Batch size : 57431 , Loss value : 0.0025798222
+	Train Loss for this epoch : 0.0032621457
+	Train Accuracy for this epoch: 0.8923036588207877
+	Validation Accuracy for this epoch: 0.8206214689265536
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 10
+
+        p@1      p@3       p@5      loss  epoch trn/val
+0  0.379003  0.33328  0.278955  0.003262   10.0     trn
+       p@1       p@3       p@5  loss  epoch trn/val
+0  0.28699  0.283163  0.247704   0.0   10.0     val
+============================================================
+Epoch  11 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 65711 , Loss value : 0.0023229464
+Batch size : 53560 , Loss value : 0.0062667173
+Batch size : 56418 , Loss value : 0.0032578432
+Batch size : 54407 , Loss value : 0.0035492873
+Batch size : 56076 , Loss value : 0.003814926
+Batch size : 54336 , Loss value : 0.0031801001
+Batch size : 54531 , Loss value : 0.0025026216
+Batch size : 61003 , Loss value : 0.0026983337
+Batch size : 57213 , Loss value : 0.00274945
+Batch size : 55453 , Loss value : 0.002511558
+Batch size : 61605 , Loss value : 0.0021948507
+Batch size : 57375 , Loss value : 0.0025690282
+	Train Loss for this epoch : 0.003134805
+	Train Accuracy for this epoch: 0.894226287578653
+	Validation Accuracy for this epoch: 0.8309792843691148
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 11
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.380914  0.334661  0.282046  0.003135   11.0     trn
+        p@1      p@3      p@5  loss  epoch trn/val
+0  0.292092  0.27466  0.23699   0.0   11.0     val
+============================================================
+Epoch  12 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 67182 , Loss value : 0.0019624897
+Batch size : 53037 , Loss value : 0.0045761615
+Batch size : 61339 , Loss value : 0.0030354303
+Batch size : 55130 , Loss value : 0.0034995957
+Batch size : 58488 , Loss value : 0.002886988
+Batch size : 61215 , Loss value : 0.0024116924
+Batch size : 67306 , Loss value : 0.0023223439
+Batch size : 65540 , Loss value : 0.0024178666
+Batch size : 54815 , Loss value : 0.0024451506
+Batch size : 66052 , Loss value : 0.0020061783
+Batch size : 59389 , Loss value : 0.0020726777
+Batch size : 64616 , Loss value : 0.0017588609
+	Train Loss for this epoch : 0.0026162863
+	Train Accuracy for this epoch: 0.8954206478676299
+	Validation Accuracy for this epoch: 0.8359227871939736
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 12
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.381392  0.329988  0.279911  0.002616   12.0     trn
+        p@1      p@3       p@5  loss  epoch trn/val
+0  0.293367  0.27551  0.245408   0.0   12.0     val
+============================================================
+Epoch  13 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 70285 , Loss value : 0.001793664
+Batch size : 53057 , Loss value : 0.0031948495
+Batch size : 61106 , Loss value : 0.0026031565
+Batch size : 58172 , Loss value : 0.002253459
+Batch size : 62785 , Loss value : 0.0024830964
+Batch size : 59111 , Loss value : 0.0026418674
+Batch size : 63925 , Loss value : 0.0019907982
+Batch size : 68623 , Loss value : 0.0019143024
+Batch size : 63261 , Loss value : 0.0016149274
+Batch size : 63595 , Loss value : 0.0018101444
+Batch size : 67251 , Loss value : 0.0016058363
+Batch size : 63706 , Loss value : 0.0016898733
+	Train Loss for this epoch : 0.002132998
+	Train Accuracy for this epoch: 0.8971393614542065
+	Validation Accuracy for this epoch: 0.8316854990583804
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 13
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.385853  0.334926  0.281727  0.002133   13.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.299745  0.281463  0.242347   0.0   13.0     val
+============================================================
+Epoch  14 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 65158 , Loss value : 0.001490606
+Batch size : 53119 , Loss value : 0.0035388332
+Batch size : 54414 , Loss value : 0.0022638529
+Batch size : 57969 , Loss value : 0.0022512223
+Batch size : 56595 , Loss value : 0.0021439553
+Batch size : 55243 , Loss value : 0.0018401108
+Batch size : 57362 , Loss value : 0.0017518834
+Batch size : 64362 , Loss value : 0.0015430927
+Batch size : 71155 , Loss value : 0.0016837668
+Batch size : 57309 , Loss value : 0.0018039331
+Batch size : 67576 , Loss value : 0.0013536966
+Batch size : 74795 , Loss value : 0.0013562286
+	Train Loss for this epoch : 0.0019184317
+	Train Accuracy for this epoch: 0.8959741319039851
+	Validation Accuracy for this epoch: 0.8345103578154426
+model saved!
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 14
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.385216  0.334395  0.280994  0.001918   14.0     trn
+       p@1       p@3       p@5  loss  epoch trn/val
+0  0.30102  0.276361  0.242347   0.0   14.0     val
+============================================================
+Epoch  15 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 60479 , Loss value : 0.0014113064
+Batch size : 53050 , Loss value : 0.0035947706
+Batch size : 54014 , Loss value : 0.0021298404
+Batch size : 56830 , Loss value : 0.0022276365
+Batch size : 55365 , Loss value : 0.0020897787
+Batch size : 65245 , Loss value : 0.0018625639
+Batch size : 56101 , Loss value : 0.0019867148
+Batch size : 67976 , Loss value : 0.00157056
+Batch size : 71676 , Loss value : 0.0015083584
+Batch size : 73195 , Loss value : 0.0016973183
+Batch size : 66146 , Loss value : 0.0014583304
+Batch size : 65620 , Loss value : 0.0012736154
+	Train Loss for this epoch : 0.0019008993
+	Train Accuracy for this epoch: 0.8992659053833605
+	Validation Accuracy for this epoch: 0.8373352165725048
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 15
+
+       p@1       p@3       p@5      loss  epoch trn/val
+0  0.38203  0.332909  0.280389  0.001901   15.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.298469  0.279337  0.242092   0.0   15.0     val
+============================================================
+Epoch  16 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 80166 , Loss value : 0.0010448509
+Batch size : 53262 , Loss value : 0.0024464163
+Batch size : 60322 , Loss value : 0.0019551879
+Batch size : 71333 , Loss value : 0.0015988922
+Batch size : 62278 , Loss value : 0.0014730196
+Batch size : 69545 , Loss value : 0.0014440396
+Batch size : 86032 , Loss value : 0.0011283265
+Batch size : 55480 , Loss value : 0.0016024892
+Batch size : 69879 , Loss value : 0.0013279341
+Batch size : 67146 , Loss value : 0.0013226172
+Batch size : 69123 , Loss value : 0.0010274148
+Batch size : 82434 , Loss value : 0.0010647665
+	Train Loss for this epoch : 0.0014529963
+	Train Accuracy for this epoch: 0.9025868096014915
+	Validation Accuracy for this epoch: 0.8361581920903954
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 16
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.384897  0.333493  0.279497  0.001453   16.0     trn
+       p@1      p@3       p@5  loss  epoch trn/val
+0  0.30102  0.27551  0.237245   0.0   16.0     val
+============================================================
+Epoch  17 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 86211 , Loss value : 0.0011759255
+Batch size : 56645 , Loss value : 0.0020253027
+Batch size : 61609 , Loss value : 0.0015247797
+Batch size : 57625 , Loss value : 0.0015781726
+Batch size : 77970 , Loss value : 0.0012735735
+Batch size : 66790 , Loss value : 0.0011833392
+Batch size : 82454 , Loss value : 0.0010276802
+Batch size : 80048 , Loss value : 0.0011751777
+Batch size : 78253 , Loss value : 0.0011674776
+Batch size : 63589 , Loss value : 0.0010581934
+Batch size : 71138 , Loss value : 0.0009441462
+Batch size : 74146 , Loss value : 0.0012291903
+	Train Loss for this epoch : 0.0012802464
+	Train Accuracy for this epoch: 0.9026450710790026
+	Validation Accuracy for this epoch: 0.8342749529190208
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 17
+
+        p@1       p@3       p@5     loss  epoch trn/val
+0  0.385375  0.333864  0.279465  0.00128   17.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.297194  0.276786  0.240561   0.0   17.0     val
+============================================================
+Epoch  18 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 88774 , Loss value : 0.0007856503
+Batch size : 55036 , Loss value : 0.00168927
+Batch size : 60404 , Loss value : 0.0012939759
+Batch size : 68390 , Loss value : 0.001302178
+Batch size : 66738 , Loss value : 0.0013235635
+Batch size : 84199 , Loss value : 0.00092286617
+Batch size : 73801 , Loss value : 0.0009787729
+Batch size : 66447 , Loss value : 0.0010888929
+Batch size : 67346 , Loss value : 0.0009835431
+Batch size : 62618 , Loss value : 0.0009890973
+Batch size : 79546 , Loss value : 0.00093974936
+Batch size : 60982 , Loss value : 0.0009538709
+	Train Loss for this epoch : 0.0011042858
+	Train Accuracy for this epoch: 0.902178979258914
+	Validation Accuracy for this epoch: 0.8286252354048964
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 18
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.372152  0.328501  0.279465  0.001104   18.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.304847  0.274235  0.244388   0.0   18.0     val
+============================================================
+Epoch  19 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 78341 , Loss value : 0.00089309114
+Batch size : 56515 , Loss value : 0.0014566635
+Batch size : 72949 , Loss value : 0.0009357219
+Batch size : 58555 , Loss value : 0.001161679
+Batch size : 70494 , Loss value : 0.00097130286
+Batch size : 87771 , Loss value : 0.0008285817
+Batch size : 77301 , Loss value : 0.00078550115
+Batch size : 73148 , Loss value : 0.0009297012
+Batch size : 84363 , Loss value : 0.0007246264
+Batch size : 77461 , Loss value : 0.00072931405
+Batch size : 75756 , Loss value : 0.0008049731
+Batch size : 89260 , Loss value : 0.0006879419
+	Train Loss for this epoch : 0.0009090915
+	Train Accuracy for this epoch: 0.9030237706828245
+	Validation Accuracy for this epoch: 0.8387476459510358
+model saved!
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 19
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.383304  0.334236  0.281568  0.000909   19.0     trn
+       p@1      p@3       p@5  loss  epoch trn/val
+0  0.30102  0.28784  0.248724   0.0   19.0     val
+============================================================
+Epoch  20 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 84348 , Loss value : 0.0006377456
+Batch size : 55362 , Loss value : 0.0013467523
+Batch size : 65199 , Loss value : 0.0010033769
+Batch size : 67578 , Loss value : 0.0009540022
+Batch size : 82493 , Loss value : 0.0008719949
+Batch size : 81473 , Loss value : 0.0010327729
+Batch size : 77240 , Loss value : 0.0008822671
+Batch size : 85112 , Loss value : 0.00072285405
+Batch size : 83566 , Loss value : 0.00081225944
+Batch size : 86963 , Loss value : 0.000726197
+Batch size : 96097 , Loss value : 0.0006812214
+Batch size : 81784 , Loss value : 0.000677077
+	Train Loss for this epoch : 0.0008623767
+	Train Accuracy for this epoch: 0.9064029363784666
+	Validation Accuracy for this epoch: 0.8316854990583804
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 20
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.383304  0.334449  0.280102  0.000862   20.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.309949  0.280187  0.244643   0.0   20.0     val
+============================================================
+Epoch  21 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 100981 , Loss value : 0.000545534
+Batch size : 65694 , Loss value : 0.0009871675
+Batch size : 66106 , Loss value : 0.000886161
+Batch size : 65543 , Loss value : 0.0008085738
+Batch size : 94869 , Loss value : 0.00070986815
+Batch size : 92375 , Loss value : 0.0006816971
+Batch size : 83093 , Loss value : 0.00063064747
+Batch size : 83463 , Loss value : 0.00063157454
+Batch size : 78387 , Loss value : 0.00061172195
+Batch size : 80609 , Loss value : 0.00060352206
+Batch size : 86768 , Loss value : 0.00053324655
+Batch size : 86820 , Loss value : 0.0006611378
+	Train Loss for this epoch : 0.0006909044
+	Train Accuracy for this epoch: 0.9068690281985551
+	Validation Accuracy for this epoch: 0.8359227871939736
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 21
+
+       p@1       p@3       p@5      loss  epoch trn/val
+0  0.37725  0.329404  0.279751  0.000691   21.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.307398  0.280612  0.241582   0.0   21.0     val
+============================================================
+Epoch  22 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 94369 , Loss value : 0.000472757
+Batch size : 54728 , Loss value : 0.0010710047
+Batch size : 69535 , Loss value : 0.0008769913
+Batch size : 72563 , Loss value : 0.00068153976
+Batch size : 88433 , Loss value : 0.0006278819
+Batch size : 77094 , Loss value : 0.00065585715
+Batch size : 74654 , Loss value : 0.000630408
+Batch size : 105062 , Loss value : 0.0005138382
+Batch size : 87032 , Loss value : 0.0006491428
+Batch size : 86510 , Loss value : 0.00059783173
+Batch size : 93915 , Loss value : 0.00054112606
+Batch size : 79911 , Loss value : 0.0005464875
+	Train Loss for this epoch : 0.0006554055
+	Train Accuracy for this epoch: 0.9057911908646004
+	Validation Accuracy for this epoch: 0.8347457627118644
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 22
+
+       p@1       p@3      p@5      loss  epoch trn/val
+0  0.37741  0.330094  0.27921  0.000655   22.0     trn
+        p@1      p@3       p@5  loss  epoch trn/val
+0  0.295918  0.27466  0.237245   0.0   22.0     val
+============================================================
+Epoch  23 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 98651 , Loss value : 0.0004427671
+Batch size : 53874 , Loss value : 0.000998019
+Batch size : 55758 , Loss value : 0.0008132677
+Batch size : 68169 , Loss value : 0.000687309
+Batch size : 84522 , Loss value : 0.00060969545
+Batch size : 87038 , Loss value : 0.00054295285
+Batch size : 81259 , Loss value : 0.00066563796
+Batch size : 84071 , Loss value : 0.00051671773
+Batch size : 76883 , Loss value : 0.0005015083
+Batch size : 86074 , Loss value : 0.0004601264
+Batch size : 91127 , Loss value : 0.00044559158
+Batch size : 84150 , Loss value : 0.0005082812
+	Train Loss for this epoch : 0.0005993229
+	Train Accuracy for this epoch: 0.9077138196224657
+	Validation Accuracy for this epoch: 0.8394538606403014
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 23
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.386809  0.334449  0.280675  0.000599   23.0     trn
+        p@1       p@3      p@5  loss  epoch trn/val
+0  0.297194  0.271684  0.23801   0.0   23.0     val
+============================================================
+Epoch  24 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 89642 , Loss value : 0.0003866735
+Batch size : 56891 , Loss value : 0.00080032804
+Batch size : 86134 , Loss value : 0.00048412156
+Batch size : 69340 , Loss value : 0.00077838625
+Batch size : 78973 , Loss value : 0.00056379347
+Batch size : 90496 , Loss value : 0.00040793745
+Batch size : 79045 , Loss value : 0.0004946249
+Batch size : 82687 , Loss value : 0.00039608346
+Batch size : 82564 , Loss value : 0.00035250655
+Batch size : 73119 , Loss value : 0.00045867573
+Batch size : 70501 , Loss value : 0.00040653284
+Batch size : 76430 , Loss value : 0.0003360129
+	Train Loss for this epoch : 0.00048880646
+	Train Accuracy for this epoch: 0.9058785830808669
+	Validation Accuracy for this epoch: 0.8333333333333334
+model saved!
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 24
+
+        p@1       p@3      p@5      loss  epoch trn/val
+0  0.385057  0.333015  0.28058  0.000489   24.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.299745  0.277636  0.241327   0.0   24.0     val
+============================================================
+Epoch  25 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 97291 , Loss value : 0.00038156367
+Batch size : 53484 , Loss value : 0.0009598882
+Batch size : 71193 , Loss value : 0.0005233201
+Batch size : 70503 , Loss value : 0.0005047869
+Batch size : 86990 , Loss value : 0.00044315803
+Batch size : 91904 , Loss value : 0.00043806792
+Batch size : 86392 , Loss value : 0.00045585536
+Batch size : 82831 , Loss value : 0.00038854012
+Batch size : 84465 , Loss value : 0.00039033586
+Batch size : 78655 , Loss value : 0.0003587717
+Batch size : 97788 , Loss value : 0.0003147107
+Batch size : 93421 , Loss value : 0.00031833013
+	Train Loss for this epoch : 0.00045644408
+	Train Accuracy for this epoch: 0.9073933814961548
+	Validation Accuracy for this epoch: 0.836864406779661
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 25
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.376454  0.327173  0.278063  0.000456   25.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.304847  0.278486  0.241327   0.0   25.0     val
+============================================================
+Epoch  26 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 96804 , Loss value : 0.0003955732
+Batch size : 56309 , Loss value : 0.0005945672
+Batch size : 57219 , Loss value : 0.0006123209
+Batch size : 85564 , Loss value : 0.0003808619
+Batch size : 73957 , Loss value : 0.00043489184
+Batch size : 84642 , Loss value : 0.00034467672
+Batch size : 90364 , Loss value : 0.00043291503
+Batch size : 101418 , Loss value : 0.00033263175
+Batch size : 107638 , Loss value : 0.00032833012
+Batch size : 87450 , Loss value : 0.00032090757
+Batch size : 80503 , Loss value : 0.00033451355
+Batch size : 86154 , Loss value : 0.00028889911
+	Train Loss for this epoch : 0.0004000907
+	Train Accuracy for this epoch: 0.9102773246329527
+	Validation Accuracy for this epoch: 0.8425141242937854
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 26
+
+        p@1       p@3       p@5    loss  epoch trn/val
+0  0.381074  0.329032  0.278827  0.0004   26.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.298469  0.276361  0.241582   0.0   26.0     val
+============================================================
+Epoch  27 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 90679 , Loss value : 0.0002490802
+Batch size : 58134 , Loss value : 0.00056642643
+Batch size : 88692 , Loss value : 0.00037482003
+Batch size : 82759 , Loss value : 0.00039757366
+Batch size : 85437 , Loss value : 0.00029734804
+Batch size : 89941 , Loss value : 0.00030735278
+Batch size : 88910 , Loss value : 0.00033422236
+Batch size : 92520 , Loss value : 0.00037268928
+Batch size : 79721 , Loss value : 0.00029349275
+Batch size : 101553 , Loss value : 0.00028043933
+Batch size : 94815 , Loss value : 0.00030537165
+Batch size : 92101 , Loss value : 0.00030395496
+	Train Loss for this epoch : 0.00034023097
+	Train Accuracy for this epoch: 0.9095781869028199
+	Validation Accuracy for this epoch: 0.8401600753295668
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 27
+
+        p@1       p@3       p@5     loss  epoch trn/val
+0  0.377888  0.328395  0.278158  0.00034   27.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.285714  0.269558  0.237755   0.0   27.0     val
+============================================================
+Epoch  28 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 124491 , Loss value : 0.0002433227
+Batch size : 55491 , Loss value : 0.00063882
+Batch size : 71728 , Loss value : 0.00037559928
+Batch size : 91372 , Loss value : 0.0002960618
+Batch size : 100200 , Loss value : 0.0002874092
+Batch size : 90659 , Loss value : 0.000335439
+Batch size : 85155 , Loss value : 0.000326125
+Batch size : 87188 , Loss value : 0.0003223209
+Batch size : 104716 , Loss value : 0.0003240274
+Batch size : 105557 , Loss value : 0.00024136007
+Batch size : 87289 , Loss value : 0.0002643255
+Batch size : 97885 , Loss value : 0.00023438032
+	Train Loss for this epoch : 0.00032409927
+	Train Accuracy for this epoch: 0.9103064553717082
+	Validation Accuracy for this epoch: 0.8427495291902072
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 28
+
+        p@1       p@3      p@5      loss  epoch trn/val
+0  0.386012  0.334926  0.28144  0.000324   28.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.295918  0.270833  0.239031   0.0   28.0     val
+============================================================
+Epoch  29 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 91686 , Loss value : 0.00023425456
+Batch size : 62683 , Loss value : 0.0004802709
+Batch size : 61788 , Loss value : 0.00043321474
+Batch size : 90888 , Loss value : 0.00029129625
+Batch size : 79113 , Loss value : 0.00030605448
+Batch size : 90889 , Loss value : 0.00024847247
+Batch size : 92597 , Loss value : 0.00025013977
+Batch size : 105246 , Loss value : 0.0002253919
+Batch size : 76111 , Loss value : 0.00027622114
+Batch size : 92644 , Loss value : 0.00022019801
+Batch size : 83445 , Loss value : 0.0002215052
+Batch size : 101665 , Loss value : 0.00029329807
+	Train Loss for this epoch : 0.00029002645
+	Train Accuracy for this epoch: 0.9137730132836168
+	Validation Accuracy for this epoch: 0.8392184557438794
+model saved!
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 29
+
+        p@1       p@3       p@5     loss  epoch trn/val
+0  0.380437  0.334661  0.279688  0.00029   29.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.297194  0.271259  0.235459   0.0   29.0     val
+============================================================
+Epoch  30 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 85148 , Loss value : 0.00020342399
+Batch size : 55045 , Loss value : 0.0005800381
+Batch size : 88558 , Loss value : 0.00032770523
+Batch size : 68432 , Loss value : 0.0003020322
+Batch size : 83430 , Loss value : 0.00026661326
+Batch size : 86467 , Loss value : 0.00026898726
+Batch size : 87859 , Loss value : 0.0002038182
+Batch size : 93525 , Loss value : 0.00024629344
+Batch size : 72651 , Loss value : 0.00026888805
+Batch size : 95377 , Loss value : 0.00023918568
+Batch size : 89295 , Loss value : 0.00019328066
+Batch size : 82854 , Loss value : 0.0002394619
+	Train Loss for this epoch : 0.00027831065
+	Train Accuracy for this epoch: 0.9134234444185505
+	Validation Accuracy for this epoch: 0.8406308851224106
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 30
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.385534  0.332112  0.278955  0.000278   30.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.298469  0.275085  0.241071   0.0   30.0     val
+============================================================
+Epoch  31 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 101742 , Loss value : 0.00018957467
+Batch size : 54101 , Loss value : 0.00070326315
+Batch size : 84675 , Loss value : 0.00029025736
+Batch size : 84532 , Loss value : 0.00028585078
+Batch size : 101071 , Loss value : 0.00026651678
+Batch size : 90038 , Loss value : 0.00026544736
+Batch size : 81343 , Loss value : 0.00028402644
+Batch size : 95614 , Loss value : 0.00024733169
+Batch size : 100326 , Loss value : 0.00021803091
+Batch size : 87685 , Loss value : 0.0002158463
+Batch size : 90287 , Loss value : 0.00022785121
+Batch size : 87916 , Loss value : 0.00024401462
+	Train Loss for this epoch : 0.00028650096
+	Train Accuracy for this epoch: 0.9135399673735726
+	Validation Accuracy for this epoch: 0.8316854990583804
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 31
+
+        p@1       p@3      p@5      loss  epoch trn/val
+0  0.388083  0.334342  0.28007  0.000287   31.0     trn
+       p@1       p@3       p@5  loss  epoch trn/val
+0  0.30102  0.278061  0.239541   0.0   31.0     val
+============================================================
+Epoch  32 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 103745 , Loss value : 0.00017205544
+Batch size : 63271 , Loss value : 0.00043271156
+Batch size : 90753 , Loss value : 0.00028603632
+Batch size : 90875 , Loss value : 0.00027821347
+Batch size : 84670 , Loss value : 0.00025933157
+Batch size : 87134 , Loss value : 0.00024145417
+Batch size : 116839 , Loss value : 0.00017902076
+Batch size : 89028 , Loss value : 0.0002467923
+Batch size : 94917 , Loss value : 0.00020807397
+Batch size : 100250 , Loss value : 0.00019244621
+Batch size : 92477 , Loss value : 0.00023890742
+Batch size : 103543 , Loss value : 0.00017657988
+	Train Loss for this epoch : 0.00024263527
+	Train Accuracy for this epoch: 0.9128699603821953
+	Validation Accuracy for this epoch: 0.8394538606403014
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 32
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.385534  0.335086  0.280198  0.000243   32.0     trn
+       p@1       p@3       p@5  loss  epoch trn/val
+0  0.30102  0.279337  0.243622   0.0   32.0     val
+============================================================
+Epoch  33 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 99785 , Loss value : 0.00016294746
+Batch size : 58432 , Loss value : 0.0004235257
+Batch size : 97611 , Loss value : 0.00022196998
+Batch size : 85047 , Loss value : 0.00024093463
+Batch size : 113597 , Loss value : 0.0001915326
+Batch size : 106230 , Loss value : 0.00023533565
+Batch size : 92553 , Loss value : 0.00022467879
+Batch size : 100872 , Loss value : 0.00022423902
+Batch size : 108144 , Loss value : 0.00018991063
+Batch size : 99071 , Loss value : 0.00020732568
+Batch size : 93439 , Loss value : 0.00015532057
+Batch size : 97576 , Loss value : 0.00019954656
+	Train Loss for this epoch : 0.0002231056
+	Train Accuracy for this epoch: 0.9132777907247728
+	Validation Accuracy for this epoch: 0.8408662900188324
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 33
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.383941  0.330944  0.278573  0.000223   33.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.289541  0.271684  0.241327   0.0   33.0     val
+============================================================
+Epoch  34 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 106917 , Loss value : 0.00016987136
+Batch size : 56464 , Loss value : 0.0005707738
+Batch size : 67416 , Loss value : 0.00027259236
+Batch size : 83557 , Loss value : 0.00026099556
+Batch size : 97836 , Loss value : 0.000219806
+Batch size : 68792 , Loss value : 0.00024244028
+Batch size : 79099 , Loss value : 0.00018070961
+Batch size : 91509 , Loss value : 0.00022622115
+Batch size : 86112 , Loss value : 0.0002110756
+Batch size : 92471 , Loss value : 0.00016920103
+Batch size : 99880 , Loss value : 0.00016451936
+Batch size : 91848 , Loss value : 0.00021742657
+	Train Loss for this epoch : 0.00024213606
+	Train Accuracy for this epoch: 0.913889536238639
+	Validation Accuracy for this epoch: 0.8401600753295668
+model saved!
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 34
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.378365  0.330094  0.278509  0.000242   34.0     trn
+        p@1      p@3       p@5  loss  epoch trn/val
+0  0.295918  0.27466  0.239541   0.0   34.0     val
+============================================================
+Epoch  35 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 101262 , Loss value : 0.00018256714
+Batch size : 58009 , Loss value : 0.00044938593
+Batch size : 90606 , Loss value : 0.00018601843
+Batch size : 80019 , Loss value : 0.00022796595
+Batch size : 89084 , Loss value : 0.00018899779
+Batch size : 96021 , Loss value : 0.00024343793
+Batch size : 96808 , Loss value : 0.00018659674
+Batch size : 98697 , Loss value : 0.00020981253
+Batch size : 86189 , Loss value : 0.0001946144
+Batch size : 85888 , Loss value : 0.00020287053
+Batch size : 82932 , Loss value : 0.00015319578
+Batch size : 83567 , Loss value : 0.00017290816
+	Train Loss for this epoch : 0.00021653094
+	Train Accuracy for this epoch: 0.9130738755534841
+	Validation Accuracy for this epoch: 0.8378060263653484
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 35
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.376294  0.331262  0.279879  0.000217   35.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.297194  0.272534  0.243367   0.0   35.0     val
+============================================================
+Epoch  36 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 99449 , Loss value : 0.0001502379
+Batch size : 64575 , Loss value : 0.0003554282
+Batch size : 92150 , Loss value : 0.00019256125
+Batch size : 97391 , Loss value : 0.00017613388
+Batch size : 77624 , Loss value : 0.00021605701
+Batch size : 84535 , Loss value : 0.00021166116
+Batch size : 76786 , Loss value : 0.00020438607
+Batch size : 112126 , Loss value : 0.00014507199
+Batch size : 100171 , Loss value : 0.00022806478
+Batch size : 95792 , Loss value : 0.0001581315
+Batch size : 93896 , Loss value : 0.00015866297
+Batch size : 105524 , Loss value : 0.00013173287
+	Train Loss for this epoch : 0.00019401079
+	Train Accuracy for this epoch: 0.9134817058960615
+	Validation Accuracy for this epoch: 0.8465160075329566
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 36
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.380755  0.328023  0.278732  0.000194   36.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.307398  0.270408  0.239286   0.0   36.0     val
+============================================================
+Epoch  37 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 89769 , Loss value : 0.00015167083
+Batch size : 76277 , Loss value : 0.00026858694
+Batch size : 88351 , Loss value : 0.00019749977
+Batch size : 77990 , Loss value : 0.00019551419
+Batch size : 99183 , Loss value : 0.00014343772
+Batch size : 97040 , Loss value : 0.00015881982
+Batch size : 97859 , Loss value : 0.00014555782
+Batch size : 103666 , Loss value : 0.00015101636
+Batch size : 85309 , Loss value : 0.00015647634
+Batch size : 101292 , Loss value : 0.00012411094
+Batch size : 97730 , Loss value : 0.00013772813
+Batch size : 99608 , Loss value : 0.00013825382
+	Train Loss for this epoch : 0.00016405607
+	Train Accuracy for this epoch: 0.9160452109065486
+	Validation Accuracy for this epoch: 0.8439265536723164
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 37
+
+       p@1       p@3       p@5      loss  epoch trn/val
+0  0.38203  0.330891  0.279019  0.000164   37.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.292092  0.278486  0.240051   0.0   37.0     val
+============================================================
+Epoch  38 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 97885 , Loss value : 0.00012433139
+Batch size : 52986 , Loss value : 0.0004226703
+Batch size : 100502 , Loss value : 0.00016723783
+Batch size : 80882 , Loss value : 0.00017434589
+Batch size : 102431 , Loss value : 0.00014822032
+Batch size : 84449 , Loss value : 0.00019909267
+Batch size : 86428 , Loss value : 0.00015300576
+Batch size : 75867 , Loss value : 0.00016484382
+Batch size : 93256 , Loss value : 0.00026613212
+Batch size : 79701 , Loss value : 0.00016984226
+Batch size : 101342 , Loss value : 0.00013262397
+Batch size : 88741 , Loss value : 0.000116386815
+	Train Loss for this epoch : 0.00018656113
+	Train Accuracy for this epoch: 0.9116464693544628
+	Validation Accuracy for this epoch: 0.8420433145009416
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 38
+
+       p@1       p@3       p@5      loss  epoch trn/val
+0  0.37502  0.326483  0.277999  0.000187   38.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.307398  0.276786  0.246684   0.0   38.0     val
+============================================================
+Epoch  39 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 103136 , Loss value : 0.00012297854
+Batch size : 56674 , Loss value : 0.00042438725
+Batch size : 61477 , Loss value : 0.0002563729
+Batch size : 86252 , Loss value : 0.00016738998
+Batch size : 90665 , Loss value : 0.00018053323
+Batch size : 92793 , Loss value : 0.00014391248
+Batch size : 101598 , Loss value : 0.00016154266
+Batch size : 84026 , Loss value : 0.0002078151
+Batch size : 118246 , Loss value : 0.00012970254
+Batch size : 96455 , Loss value : 0.00012509097
+Batch size : 100188 , Loss value : 0.00014208604
+Batch size : 76566 , Loss value : 0.000159758
+	Train Loss for this epoch : 0.00018513079
+	Train Accuracy for this epoch: 0.9162491260778374
+	Validation Accuracy for this epoch: 0.8340395480225988
+model saved!
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 39
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.388083  0.333121  0.279337  0.000185   39.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.304847  0.278061  0.241071   0.0   39.0     val
+============================================================
+Epoch  40 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 96418 , Loss value : 0.00012516577
+Batch size : 58359 , Loss value : 0.00029017872
+Batch size : 86858 , Loss value : 0.0002064326
+Batch size : 90941 , Loss value : 0.00020398032
+Batch size : 91065 , Loss value : 0.0001635641
+Batch size : 82186 , Loss value : 0.00013689048
+Batch size : 85512 , Loss value : 0.00018141241
+Batch size : 92007 , Loss value : 0.00012717678
+Batch size : 88522 , Loss value : 0.00014917272
+Batch size : 111424 , Loss value : 0.00013149684
+Batch size : 77144 , Loss value : 0.00017115689
+Batch size : 95151 , Loss value : 0.00011719386
+	Train Loss for this epoch : 0.00016698513
+	Train Accuracy for this epoch: 0.9149382428338383
+	Validation Accuracy for this epoch: 0.8469868173258004
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 40
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.382986  0.329988  0.278541  0.000167   40.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.313776  0.279337  0.239796   0.0   40.0     val
+============================================================
+Epoch  41 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 92767 , Loss value : 0.00011214713
+Batch size : 59458 , Loss value : 0.0002935301
+Batch size : 92002 , Loss value : 0.00017879193
+Batch size : 97432 , Loss value : 0.00014028615
+Batch size : 103723 , Loss value : 0.00013807771
+Batch size : 91246 , Loss value : 0.00014373742
+Batch size : 83346 , Loss value : 0.0001566072
+Batch size : 79186 , Loss value : 0.00017521372
+Batch size : 92079 , Loss value : 0.00013513857
+Batch size : 102818 , Loss value : 0.000119101
+Batch size : 85164 , Loss value : 0.00015993712
+Batch size : 87110 , Loss value : 0.00012008344
+	Train Loss for this epoch : 0.00015605429
+	Train Accuracy for this epoch: 0.9154043346539268
+	Validation Accuracy for this epoch: 0.8392184557438794
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 41
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.385694  0.333227  0.280612  0.000156   41.0     trn
+        p@1       p@3      p@5  loss  epoch trn/val
+0  0.311224  0.280612  0.23801   0.0   41.0     val
+============================================================
+Epoch  42 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 96222 , Loss value : 0.00011059218
+Batch size : 53746 , Loss value : 0.00041486567
+Batch size : 83066 , Loss value : 0.00015747097
+Batch size : 77500 , Loss value : 0.00017242906
+Batch size : 87923 , Loss value : 0.00018429202
+Batch size : 99390 , Loss value : 0.00014881948
+Batch size : 96858 , Loss value : 0.00015092455
+Batch size : 83724 , Loss value : 0.00014872679
+Batch size : 75285 , Loss value : 0.00014685943
+Batch size : 90710 , Loss value : 0.00014887046
+Batch size : 83134 , Loss value : 0.00016197043
+Batch size : 88191 , Loss value : 0.0001263877
+	Train Loss for this epoch : 0.00017268407
+	Train Accuracy for this epoch: 0.9163073875553484
+	Validation Accuracy for this epoch: 0.8387476459510358
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 42
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.380118  0.329935  0.277202  0.000173   42.0     trn
+       p@1       p@3      p@5  loss  epoch trn/val
+0  0.28699  0.268707  0.23699   0.0   42.0     val
+============================================================
+Epoch  43 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 88673 , Loss value : 0.00013263944
+Batch size : 61421 , Loss value : 0.0002689978
+Batch size : 104885 , Loss value : 0.00013758049
+Batch size : 97562 , Loss value : 0.00013937926
+Batch size : 103177 , Loss value : 0.00013182913
+Batch size : 97351 , Loss value : 0.000157815
+Batch size : 94248 , Loss value : 0.00013662416
+Batch size : 89878 , Loss value : 0.00013168379
+Batch size : 91634 , Loss value : 0.00013236832
+Batch size : 93476 , Loss value : 0.00011858059
+Batch size : 95385 , Loss value : 0.00011812153
+Batch size : 77659 , Loss value : 0.00015562303
+	Train Loss for this epoch : 0.00014677021
+	Train Accuracy for this epoch: 0.9156665113027266
+	Validation Accuracy for this epoch: 0.836864406779661
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 43
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.390473  0.333811  0.279815  0.000147   43.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.288265  0.267007  0.240051   0.0   43.0     val
+============================================================
+Epoch  44 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 85538 , Loss value : 9.526439e-05
+Batch size : 57211 , Loss value : 0.0003357069
+Batch size : 110072 , Loss value : 0.00014448026
+Batch size : 91664 , Loss value : 0.00013744817
+Batch size : 113280 , Loss value : 0.00012250153
+Batch size : 110450 , Loss value : 0.00012971507
+Batch size : 106015 , Loss value : 0.00014450359
+Batch size : 107834 , Loss value : 0.00012518851
+Batch size : 89570 , Loss value : 0.00017128204
+Batch size : 78586 , Loss value : 0.00014174709
+Batch size : 83982 , Loss value : 0.000115588264
+Batch size : 90737 , Loss value : 0.0001328283
+	Train Loss for this epoch : 0.00014968785
+	Train Accuracy for this epoch: 0.9198613376835236
+	Validation Accuracy for this epoch: 0.8361581920903954
+model saved!
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 44
+
+        p@1       p@3       p@5     loss  epoch trn/val
+0  0.385057  0.332855  0.280389  0.00015   44.0     trn
+       p@1      p@3       p@5  loss  epoch trn/val
+0  0.30102  0.27466  0.240561   0.0   44.0     val
+============================================================
+Epoch  45 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 92929 , Loss value : 0.00011755169
+Batch size : 58645 , Loss value : 0.000341112
+Batch size : 86416 , Loss value : 0.00017224495
+Batch size : 91589 , Loss value : 0.0001683814
+Batch size : 89657 , Loss value : 0.00014309115
+Batch size : 87665 , Loss value : 0.00013809693
+Batch size : 98669 , Loss value : 0.00014388272
+Batch size : 101178 , Loss value : 0.00010611765
+Batch size : 95963 , Loss value : 0.00013369283
+Batch size : 111934 , Loss value : 0.00013045881
+Batch size : 93729 , Loss value : 0.000110428606
+Batch size : 95392 , Loss value : 0.00010905249
+	Train Loss for this epoch : 0.00015117595
+	Train Accuracy for this epoch: 0.9193078536471685
+	Validation Accuracy for this epoch: 0.8453389830508474
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 45
+
+        p@1       p@3      p@5      loss  epoch trn/val
+0  0.384579  0.328819  0.27784  0.000151   45.0     trn
+        p@1      p@3       p@5  loss  epoch trn/val
+0  0.298469  0.27466  0.239031   0.0   45.0     val
+============================================================
+Epoch  46 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 98333 , Loss value : 0.00012230182
+Batch size : 58053 , Loss value : 0.0003517044
+Batch size : 85995 , Loss value : 0.0001662323
+Batch size : 98902 , Loss value : 0.00015022987
+Batch size : 80736 , Loss value : 0.00012769262
+Batch size : 84467 , Loss value : 0.00012515181
+Batch size : 97064 , Loss value : 0.0001264637
+Batch size : 98726 , Loss value : 0.00012353621
+Batch size : 96902 , Loss value : 0.00011802965
+Batch size : 96716 , Loss value : 0.00012336303
+Batch size : 105540 , Loss value : 0.000113409136
+Batch size : 87555 , Loss value : 0.00012638589
+	Train Loss for this epoch : 0.00014787503
+	Train Accuracy for this epoch: 0.918900023304591
+	Validation Accuracy for this epoch: 0.8420433145009416
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 46
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.383941  0.330784  0.278668  0.000148   46.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.307398  0.276786  0.235714   0.0   46.0     val
+============================================================
+Epoch  47 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 100946 , Loss value : 0.00010021748
+Batch size : 53821 , Loss value : 0.0004391423
+Batch size : 96804 , Loss value : 0.00014877987
+Batch size : 80872 , Loss value : 0.00017156283
+Batch size : 84924 , Loss value : 0.00017473208
+Batch size : 100989 , Loss value : 0.00014151375
+Batch size : 89342 , Loss value : 0.00015344286
+Batch size : 99836 , Loss value : 0.00012764825
+Batch size : 91837 , Loss value : 0.0001405676
+Batch size : 99096 , Loss value : 0.00012983682
+Batch size : 93506 , Loss value : 0.000103390346
+Batch size : 90986 , Loss value : 0.00011948902
+	Train Loss for this epoch : 0.00016252694
+	Train Accuracy for this epoch: 0.9189874155208576
+	Validation Accuracy for this epoch: 0.8422787193973634
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 47
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.383145  0.332855  0.280229  0.000163   47.0     trn
+        p@1      p@3       p@5  loss  epoch trn/val
+0  0.293367  0.27551  0.237245   0.0   47.0     val
+============================================================
+Epoch  48 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 95125 , Loss value : 9.777729e-05
+Batch size : 59816 , Loss value : 0.00030035016
+Batch size : 72323 , Loss value : 0.00019283542
+Batch size : 85926 , Loss value : 0.00013337011
+Batch size : 105090 , Loss value : 0.00013811306
+Batch size : 98884 , Loss value : 0.00012729035
+Batch size : 100990 , Loss value : 0.00011979984
+Batch size : 97151 , Loss value : 0.0001257979
+Batch size : 101571 , Loss value : 0.000107516025
+Batch size : 71521 , Loss value : 0.00014963826
+Batch size : 100533 , Loss value : 0.00011200809
+Batch size : 96547 , Loss value : 9.644278e-05
+	Train Loss for this epoch : 0.00014174495
+	Train Accuracy for this epoch: 0.9191039384758798
+	Validation Accuracy for this epoch: 0.8366290018832392
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 48
+
+        p@1       p@3      p@5      loss  epoch trn/val
+0  0.387924  0.332112  0.27819  0.000142   48.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.308673  0.267007  0.232653   0.0   48.0     val
+============================================================
+Epoch  49 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 85426 , Loss value : 0.00010300092
+Batch size : 54637 , Loss value : 0.00049054914
+Batch size : 77350 , Loss value : 0.00015054648
+Batch size : 68999 , Loss value : 0.00019898712
+Batch size : 100956 , Loss value : 0.00012090945
+Batch size : 82448 , Loss value : 0.00013750614
+Batch size : 78035 , Loss value : 0.00017832579
+Batch size : 108013 , Loss value : 0.00011983668
+Batch size : 95800 , Loss value : 0.000114865274
+Batch size : 87329 , Loss value : 0.00013187161
+Batch size : 78204 , Loss value : 0.00012730352
+Batch size : 92200 , Loss value : 0.00010475047
+	Train Loss for this epoch : 0.00016487105
+	Train Accuracy for this epoch: 0.9187252388720578
+	Validation Accuracy for this epoch: 0.8455743879472694
+model saved!
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 49
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.385057  0.333386  0.280452  0.000165   49.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.298469  0.275935  0.243622   0.0   49.0     val
+============================================================
+Epoch  50 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 94970 , Loss value : 0.00010252713
+Batch size : 53731 , Loss value : 0.0003530977
+Batch size : 87522 , Loss value : 0.00014689846
+Batch size : 77389 , Loss value : 0.00013322914
+Batch size : 81703 , Loss value : 0.00013323546
+Batch size : 81529 , Loss value : 0.00014222391
+Batch size : 97411 , Loss value : 0.00013255292
+Batch size : 87547 , Loss value : 0.00012789272
+Batch size : 83575 , Loss value : 0.0001115964
+Batch size : 94338 , Loss value : 0.000118074066
+Batch size : 95490 , Loss value : 9.579564e-05
+Batch size : 90411 , Loss value : 0.00011079195
+	Train Loss for this epoch : 0.00014232629
+	Train Accuracy for this epoch: 0.9170939175017478
+	Validation Accuracy for this epoch: 0.8401600753295668
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 50
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.387765  0.335298  0.280516  0.000142   50.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.294643  0.276361  0.243878   0.0   50.0     val
+============================================================
+Epoch  51 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 93384 , Loss value : 9.1146096e-05
+Batch size : 67795 , Loss value : 0.00020320748
+Batch size : 87363 , Loss value : 0.00014220066
+Batch size : 94738 , Loss value : 0.00011219052
+Batch size : 85256 , Loss value : 0.000118372955
+Batch size : 91647 , Loss value : 0.00010543059
+Batch size : 100927 , Loss value : 8.327679e-05
+Batch size : 86229 , Loss value : 9.629236e-05
+Batch size : 89217 , Loss value : 0.000102578466
+Batch size : 91166 , Loss value : 9.291573e-05
+Batch size : 92075 , Loss value : 9.149158e-05
+Batch size : 88444 , Loss value : 9.9515266e-05
+	Train Loss for this epoch : 0.00011155155
+	Train Accuracy for this epoch: 0.9195408995572127
+	Validation Accuracy for this epoch: 0.844632768361582
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 51
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.382348  0.329032  0.278254  0.000112   51.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.307398  0.275935  0.241327   0.0   51.0     val
+============================================================
+Epoch  52 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 92060 , Loss value : 0.00010221041
+Batch size : 54101 , Loss value : 0.00035352103
+Batch size : 86974 , Loss value : 0.00011395017
+Batch size : 82819 , Loss value : 0.00014346988
+Batch size : 93677 , Loss value : 0.00012264565
+Batch size : 88635 , Loss value : 0.00012540491
+Batch size : 92030 , Loss value : 0.00013189435
+Batch size : 98054 , Loss value : 0.000114590825
+Batch size : 87568 , Loss value : 0.00011692264
+Batch size : 93077 , Loss value : 0.00010915301
+Batch size : 95799 , Loss value : 0.00010893105
+Batch size : 86906 , Loss value : 0.000101200334
+	Train Loss for this epoch : 0.00013699119
+	Train Accuracy for this epoch: 0.9198030762060125
+	Validation Accuracy for this epoch: 0.8373352165725048
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 52
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.386809  0.332431  0.280389  0.000137   52.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.307398  0.276361  0.241071   0.0   52.0     val
+============================================================
+Epoch  53 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 89272 , Loss value : 0.00011832415
+Batch size : 68192 , Loss value : 0.00022249504
+Batch size : 95116 , Loss value : 0.00012234702
+Batch size : 94607 , Loss value : 0.000107078784
+Batch size : 89495 , Loss value : 0.000114099064
+Batch size : 101475 , Loss value : 0.000100381636
+Batch size : 94963 , Loss value : 0.00010268685
+Batch size : 87107 , Loss value : 0.00011681704
+Batch size : 89855 , Loss value : 0.0001105864
+Batch size : 88085 , Loss value : 9.614412e-05
+Batch size : 91989 , Loss value : 8.8625166e-05
+Batch size : 88039 , Loss value : 8.773725e-05
+	Train Loss for this epoch : 0.0001156102
+	Train Accuracy for this epoch: 0.921405266837567
+	Validation Accuracy for this epoch: 0.8436911487758946
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 53
+
+        p@1       p@3     p@5      loss  epoch trn/val
+0  0.382986  0.332962  0.2787  0.000116   53.0     trn
+       p@1       p@3       p@5  loss  epoch trn/val
+0  0.30102  0.280612  0.240561   0.0   53.0     val
+============================================================
+Epoch  54 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 93539 , Loss value : 8.918614e-05
+Batch size : 66255 , Loss value : 0.00020169106
+Batch size : 90271 , Loss value : 0.00013051709
+Batch size : 91413 , Loss value : 0.000113683825
+Batch size : 95426 , Loss value : 0.00010137154
+Batch size : 95696 , Loss value : 0.00013343537
+Batch size : 106742 , Loss value : 0.00010400355
+Batch size : 88076 , Loss value : 0.00010130855
+Batch size : 81181 , Loss value : 0.000102622915
+Batch size : 89878 , Loss value : 8.593949e-05
+Batch size : 91243 , Loss value : 9.49644e-05
+Batch size : 95785 , Loss value : 8.5719985e-05
+	Train Loss for this epoch : 0.000112037
+	Train Accuracy for this epoch: 0.9201817758098345
+	Validation Accuracy for this epoch: 0.841337099811676
+model saved!
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 54
+
+        p@1       p@3     p@5      loss  epoch trn/val
+0  0.384419  0.328288  0.2787  0.000112   54.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.307398  0.277636  0.242602   0.0   54.0     val
+============================================================
+Epoch  55 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 87007 , Loss value : 9.213794e-05
+Batch size : 54291 , Loss value : 0.00036473104
+Batch size : 98198 , Loss value : 0.00011389846
+Batch size : 89935 , Loss value : 0.00012598113
+Batch size : 99755 , Loss value : 0.000114433664
+Batch size : 92560 , Loss value : 0.00012472193
+Batch size : 93734 , Loss value : 0.00012251995
+Batch size : 94592 , Loss value : 0.00012008236
+Batch size : 97334 , Loss value : 0.00011335863
+Batch size : 94629 , Loss value : 0.000113026756
+Batch size : 82537 , Loss value : 0.00012038748
+Batch size : 103533 , Loss value : 0.000100120225
+	Train Loss for this epoch : 0.00013544997
+	Train Accuracy for this epoch: 0.9197739454672571
+	Validation Accuracy for this epoch: 0.8406308851224106
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 55
+
+        p@1      p@3       p@5      loss  epoch trn/val
+0  0.382986  0.33105  0.279943  0.000135   55.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.304847  0.276361  0.241327   0.0   55.0     val
+============================================================
+Epoch  56 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 92968 , Loss value : 9.219541e-05
+Batch size : 67642 , Loss value : 0.00025374859
+Batch size : 89345 , Loss value : 0.00015185695
+Batch size : 106711 , Loss value : 0.00011648694
+Batch size : 100732 , Loss value : 0.00011808006
+Batch size : 90937 , Loss value : 0.00012937741
+Batch size : 96599 , Loss value : 0.000105414576
+Batch size : 92122 , Loss value : 0.00010962942
+Batch size : 90663 , Loss value : 9.4077644e-05
+Batch size : 98030 , Loss value : 9.30813e-05
+Batch size : 102328 , Loss value : 8.0014084e-05
+Batch size : 90321 , Loss value : 8.917661e-05
+	Train Loss for this epoch : 0.000119428245
+	Train Accuracy for this epoch: 0.9204148217198788
+	Validation Accuracy for this epoch: 0.8387476459510358
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 56
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.379481  0.328448  0.278764  0.000119   56.0     trn
+        p@1       p@3      p@5  loss  epoch trn/val
+0  0.289541  0.269133  0.23801   0.0   56.0     val
+============================================================
+Epoch  57 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 88912 , Loss value : 9.084619e-05
+Batch size : 68527 , Loss value : 0.00019043326
+Batch size : 90307 , Loss value : 0.00014023464
+Batch size : 93256 , Loss value : 0.00010937255
+Batch size : 92298 , Loss value : 9.348739e-05
+Batch size : 95676 , Loss value : 0.000107617525
+Batch size : 92043 , Loss value : 0.0001218301
+Batch size : 91588 , Loss value : 0.00012080045
+Batch size : 87355 , Loss value : 9.2953545e-05
+Batch size : 93878 , Loss value : 0.000107400316
+Batch size : 83211 , Loss value : 0.000116115894
+Batch size : 81598 , Loss value : 9.7207965e-05
+	Train Loss for this epoch : 0.000115691655
+	Train Accuracy for this epoch: 0.9191039384758798
+	Validation Accuracy for this epoch: 0.8406308851224106
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 57
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.385057  0.331368  0.279274  0.000116   57.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.279337  0.267007  0.240306   0.0   57.0     val
+============================================================
+Epoch  58 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 81609 , Loss value : 8.534176e-05
+Batch size : 67269 , Loss value : 0.00020062567
+Batch size : 87503 , Loss value : 0.0001096436
+Batch size : 89357 , Loss value : 0.00011125292
+Batch size : 97006 , Loss value : 0.000101523125
+Batch size : 101928 , Loss value : 0.0001177253
+Batch size : 85469 , Loss value : 0.00010382356
+Batch size : 82886 , Loss value : 9.268495e-05
+Batch size : 91216 , Loss value : 0.00012021779
+Batch size : 80761 , Loss value : 9.841204e-05
+Batch size : 86389 , Loss value : 8.4907966e-05
+Batch size : 86858 , Loss value : 8.067978e-05
+	Train Loss for this epoch : 0.00010890321
+	Train Accuracy for this epoch: 0.9179095781869028
+	Validation Accuracy for this epoch: 0.8389830508474576
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 58
+
+       p@1       p@3       p@5      loss  epoch trn/val
+0  0.38888  0.333971  0.279465  0.000109   58.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.298469  0.276361  0.239286   0.0   58.0     val
+============================================================
+Epoch  59 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 91995 , Loss value : 9.751775e-05
+Batch size : 66615 , Loss value : 0.0002310611
+Batch size : 88176 , Loss value : 0.000107833446
+Batch size : 93878 , Loss value : 0.00010731567
+Batch size : 82405 , Loss value : 9.811886e-05
+Batch size : 89349 , Loss value : 9.6997726e-05
+Batch size : 99610 , Loss value : 9.424158e-05
+Batch size : 95818 , Loss value : 0.000110602574
+Batch size : 84608 , Loss value : 9.236877e-05
+Batch size : 92527 , Loss value : 8.092302e-05
+Batch size : 96125 , Loss value : 9.74562e-05
+Batch size : 96636 , Loss value : 8.1754115e-05
+	Train Loss for this epoch : 0.0001080159
+	Train Accuracy for this epoch: 0.920094383593568
+	Validation Accuracy for this epoch: 0.8420433145009416
+model saved!
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 59
+
+       p@1       p@3       p@5      loss  epoch trn/val
+0  0.37964  0.329563  0.279401  0.000108   59.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.290816  0.270408  0.239796   0.0   59.0     val
+============================================================
+Epoch  60 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 89323 , Loss value : 7.8698075e-05
+Batch size : 56172 , Loss value : 0.00040608033
+Batch size : 103791 , Loss value : 0.00013603127
+Batch size : 89496 , Loss value : 0.00015050774
+Batch size : 88826 , Loss value : 0.00013144578
+Batch size : 89592 , Loss value : 0.00011222942
+Batch size : 95832 , Loss value : 0.00012755669
+Batch size : 99981 , Loss value : 0.00011827395
+Batch size : 84784 , Loss value : 0.000107235865
+Batch size : 91117 , Loss value : 0.00010231309
+Batch size : 93472 , Loss value : 9.8626e-05
+Batch size : 94081 , Loss value : 0.00011114341
+	Train Loss for this epoch : 0.0001400118
+	Train Accuracy for this epoch: 0.9190456769983687
+	Validation Accuracy for this epoch: 0.8375706214689266
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 60
+
+        p@1     p@3       p@5     loss  epoch trn/val
+0  0.383782  0.3302  0.277935  0.00014   60.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.279337  0.264456  0.233163   0.0   60.0     val
+============================================================
+Epoch  61 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 88344 , Loss value : 8.964025e-05
+Batch size : 66601 , Loss value : 0.00025029297
+Batch size : 72184 , Loss value : 0.00020887982
+Batch size : 95158 , Loss value : 0.00011187388
+Batch size : 102139 , Loss value : 0.00010952978
+Batch size : 90782 , Loss value : 0.00012617574
+Batch size : 72736 , Loss value : 0.00011116834
+Batch size : 84031 , Loss value : 9.88947e-05
+Batch size : 109227 , Loss value : 0.00010216159
+Batch size : 78443 , Loss value : 0.00011562317
+Batch size : 90561 , Loss value : 9.663574e-05
+Batch size : 85161 , Loss value : 0.00010344493
+	Train Loss for this epoch : 0.00012702674
+	Train Accuracy for this epoch: 0.9175891400605919
+	Validation Accuracy for this epoch: 0.8375706214689266
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 61
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.381074  0.330253  0.277521  0.000127   61.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.294643  0.270833  0.237245   0.0   61.0     val
+============================================================
+Epoch  62 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 78604 , Loss value : 9.992299e-05
+Batch size : 64830 , Loss value : 0.00020313013
+Batch size : 84325 , Loss value : 0.00013453321
+Batch size : 84094 , Loss value : 0.00010741366
+Batch size : 94014 , Loss value : 0.0001029554
+Batch size : 78523 , Loss value : 0.00010887286
+Batch size : 102596 , Loss value : 8.771313e-05
+Batch size : 86196 , Loss value : 0.00010172818
+Batch size : 91256 , Loss value : 8.555199e-05
+Batch size : 90103 , Loss value : 8.611029e-05
+Batch size : 83046 , Loss value : 9.138248e-05
+Batch size : 87666 , Loss value : 8.726267e-05
+	Train Loss for this epoch : 0.000108048094
+	Train Accuracy for this epoch: 0.9200361221160569
+	Validation Accuracy for this epoch: 0.8389830508474576
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 62
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.387287  0.333599  0.279688  0.000108   62.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.293367  0.273384  0.238776   0.0   62.0     val
+============================================================
+Epoch  63 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 95121 , Loss value : 7.0238304e-05
+Batch size : 69387 , Loss value : 0.00016605921
+Batch size : 101940 , Loss value : 0.00011932643
+Batch size : 90425 , Loss value : 0.00010511114
+Batch size : 90919 , Loss value : 9.7022385e-05
+Batch size : 80575 , Loss value : 8.535194e-05
+Batch size : 87859 , Loss value : 9.267777e-05
+Batch size : 95315 , Loss value : 8.561025e-05
+Batch size : 92718 , Loss value : 7.949207e-05
+Batch size : 86634 , Loss value : 7.985493e-05
+Batch size : 92983 , Loss value : 8.161956e-05
+Batch size : 104597 , Loss value : 7.220285e-05
+	Train Loss for this epoch : 9.4547235e-05
+	Train Accuracy for this epoch: 0.9185504544395245
+	Validation Accuracy for this epoch: 0.8408662900188324
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 63
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.380277  0.326005  0.277266  0.000095   63.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.289541  0.267857  0.235969   0.0   63.0     val
+============================================================
+Epoch  64 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 83370 , Loss value : 8.811607e-05
+Batch size : 57096 , Loss value : 0.00019640407
+Batch size : 94312 , Loss value : 0.0001245002
+Batch size : 92034 , Loss value : 0.000102867845
+Batch size : 99162 , Loss value : 9.8477896e-05
+Batch size : 98699 , Loss value : 8.4459956e-05
+Batch size : 95847 , Loss value : 8.697895e-05
+Batch size : 82992 , Loss value : 8.5865795e-05
+Batch size : 85598 , Loss value : 8.487463e-05
+Batch size : 87894 , Loss value : 9.4550036e-05
+Batch size : 95854 , Loss value : 9.223337e-05
+Batch size : 78633 , Loss value : 7.495091e-05
+	Train Loss for this epoch : 0.00010118997
+	Train Accuracy for this epoch: 0.9211722209275227
+	Validation Accuracy for this epoch: 0.838276836158192
+model saved!
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 64
+
+        p@1      p@3       p@5      loss  epoch trn/val
+0  0.387765  0.33413  0.279274  0.000101   64.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.313776  0.269983  0.237245   0.0   64.0     val
+============================================================
+Epoch  65 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 100721 , Loss value : 7.07563e-05
+Batch size : 74687 , Loss value : 0.00017768618
+Batch size : 92144 , Loss value : 9.8912235e-05
+Batch size : 99574 , Loss value : 0.000100683705
+Batch size : 90168 , Loss value : 8.1079736e-05
+Batch size : 91068 , Loss value : 8.47735e-05
+Batch size : 84038 , Loss value : 9.6564436e-05
+Batch size : 87181 , Loss value : 8.8508976e-05
+Batch size : 80397 , Loss value : 7.679701e-05
+Batch size : 88233 , Loss value : 8.444303e-05
+Batch size : 93450 , Loss value : 7.818581e-05
+Batch size : 89838 , Loss value : 8.550056e-05
+	Train Loss for this epoch : 9.365762e-05
+	Train Accuracy for this epoch: 0.9202109065485901
+	Validation Accuracy for this epoch: 0.8439265536723164
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 65
+
+        p@1       p@3      p@5      loss  epoch trn/val
+0  0.387287  0.335086  0.27972  0.000094   65.0     trn
+        p@1      p@3       p@5  loss  epoch trn/val
+0  0.315051  0.27466  0.234949   0.0   65.0     val
+============================================================
+Epoch  66 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 82856 , Loss value : 8.6852844e-05
+Batch size : 74900 , Loss value : 0.00014492843
+Batch size : 84359 , Loss value : 8.7106615e-05
+Batch size : 91532 , Loss value : 7.645206e-05
+Batch size : 93092 , Loss value : 7.914061e-05
+Batch size : 92763 , Loss value : 8.574061e-05
+Batch size : 87794 , Loss value : 8.6595675e-05
+Batch size : 90079 , Loss value : 8.3348605e-05
+Batch size : 91506 , Loss value : 7.469052e-05
+Batch size : 89829 , Loss value : 7.42097e-05
+Batch size : 85976 , Loss value : 7.810309e-05
+Batch size : 88360 , Loss value : 8.7281056e-05
+	Train Loss for this epoch : 8.7037486e-05
+	Train Accuracy for this epoch: 0.9242892099743649
+	Validation Accuracy for this epoch: 0.8418079096045198
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 66
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.388083  0.331315  0.278509  0.000087   66.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.309949  0.272109  0.236735   0.0   66.0     val
+============================================================
+Epoch  67 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 90021 , Loss value : 8.986565e-05
+Batch size : 90561 , Loss value : 0.00010678243
+Batch size : 87536 , Loss value : 8.829241e-05
+Batch size : 103843 , Loss value : 8.3249586e-05
+Batch size : 87085 , Loss value : 7.9476864e-05
+Batch size : 84727 , Loss value : 7.599935e-05
+Batch size : 91529 , Loss value : 6.931118e-05
+Batch size : 97961 , Loss value : 7.5385884e-05
+Batch size : 85468 , Loss value : 7.4275915e-05
+Batch size : 90396 , Loss value : 6.8280584e-05
+Batch size : 87933 , Loss value : 7.2405644e-05
+Batch size : 88476 , Loss value : 7.960239e-05
+	Train Loss for this epoch : 8.024399e-05
+	Train Accuracy for this epoch: 0.9232696341179212
+	Validation Accuracy for this epoch: 0.8432203389830508
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 67
+
+        p@1       p@3      p@5     loss  epoch trn/val
+0  0.387446  0.331793  0.27819  0.00008   67.0     trn
+       p@1       p@3       p@5  loss  epoch trn/val
+0  0.30102  0.270408  0.233163   0.0   67.0     val
+============================================================
+Epoch  68 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 83287 , Loss value : 6.186849e-05
+Batch size : 85541 , Loss value : 9.321024e-05
+Batch size : 87168 , Loss value : 8.658585e-05
+Batch size : 83265 , Loss value : 7.6192664e-05
+Batch size : 96004 , Loss value : 7.137077e-05
+Batch size : 91565 , Loss value : 7.5304866e-05
+Batch size : 80634 , Loss value : 7.712848e-05
+Batch size : 95678 , Loss value : 7.369612e-05
+Batch size : 81599 , Loss value : 6.664097e-05
+Batch size : 81975 , Loss value : 7.065008e-05
+Batch size : 80919 , Loss value : 8.538984e-05
+Batch size : 86832 , Loss value : 5.894371e-05
+	Train Loss for this epoch : 7.47485e-05
+	Train Accuracy for this epoch: 0.9225704963877884
+	Validation Accuracy for this epoch: 0.8422787193973634
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 68
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.392385  0.333811  0.279305  0.000075   68.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.303571  0.273384  0.237755   0.0   68.0     val
+============================================================
+Epoch  69 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 91486 , Loss value : 6.787496e-05
+Batch size : 71766 , Loss value : 0.00010970777
+Batch size : 97662 , Loss value : 8.3424806e-05
+Batch size : 103102 , Loss value : 7.0796836e-05
+Batch size : 93840 , Loss value : 7.3564755e-05
+Batch size : 83423 , Loss value : 5.9340542e-05
+Batch size : 87461 , Loss value : 7.716994e-05
+Batch size : 79519 , Loss value : 8.296532e-05
+Batch size : 90404 , Loss value : 6.2970954e-05
+Batch size : 91717 , Loss value : 6.919766e-05
+Batch size : 84753 , Loss value : 7.181794e-05
+Batch size : 81883 , Loss value : 6.6405846e-05
+	Train Loss for this epoch : 7.4603115e-05
+	Train Accuracy for this epoch: 0.9254835702633418
+	Validation Accuracy for this epoch: 0.8458097928436912
+model saved!
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 69
+
+       p@1       p@3       p@5      loss  epoch trn/val
+0  0.38665  0.334395  0.278827  0.000075   69.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.308673  0.275085  0.242092   0.0   69.0     val
+============================================================
+Epoch  70 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 83728 , Loss value : 6.345755e-05
+Batch size : 88270 , Loss value : 0.000113375354
+Batch size : 97629 , Loss value : 7.744159e-05
+Batch size : 84116 , Loss value : 7.064197e-05
+Batch size : 98752 , Loss value : 6.581742e-05
+Batch size : 94638 , Loss value : 7.620363e-05
+Batch size : 80839 , Loss value : 6.830032e-05
+Batch size : 93623 , Loss value : 6.8388545e-05
+Batch size : 81344 , Loss value : 6.680398e-05
+Batch size : 78255 , Loss value : 6.473178e-05
+Batch size : 83877 , Loss value : 7.344186e-05
+Batch size : 85597 , Loss value : 7.566977e-05
+	Train Loss for this epoch : 7.368949e-05
+	Train Accuracy for this epoch: 0.9223374504777441
+	Validation Accuracy for this epoch: 0.842984934086629
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 70
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.388721  0.335192  0.280261  0.000074   70.0     trn
+       p@1       p@3      p@5  loss  epoch trn/val
+0  0.30102  0.271259  0.23699   0.0   70.0     val
+============================================================
+Epoch  71 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 90632 , Loss value : 5.5890916e-05
+Batch size : 77602 , Loss value : 0.00011219191
+Batch size : 96562 , Loss value : 8.604253e-05
+Batch size : 85757 , Loss value : 7.208543e-05
+Batch size : 92204 , Loss value : 6.169343e-05
+Batch size : 91635 , Loss value : 6.085634e-05
+Batch size : 100636 , Loss value : 6.593694e-05
+Batch size : 107829 , Loss value : 6.38601e-05
+Batch size : 83514 , Loss value : 6.678667e-05
+Batch size : 94272 , Loss value : 6.965516e-05
+Batch size : 76024 , Loss value : 7.017117e-05
+Batch size : 88242 , Loss value : 6.421088e-05
+	Train Loss for this epoch : 7.078179e-05
+	Train Accuracy for this epoch: 0.92347354928921
+	Validation Accuracy for this epoch: 0.8436911487758946
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 71
+
+       p@1       p@3       p@5      loss  epoch trn/val
+0  0.38665  0.332855  0.279433  0.000071   71.0     trn
+        p@1      p@3       p@5  loss  epoch trn/val
+0  0.293367  0.27551  0.237245   0.0   71.0     val
+============================================================
+Epoch  72 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 88306 , Loss value : 6.405529e-05
+Batch size : 64543 , Loss value : 0.0001370946
+Batch size : 101441 , Loss value : 7.098859e-05
+Batch size : 86558 , Loss value : 5.960421e-05
+Batch size : 94849 , Loss value : 7.178659e-05
+Batch size : 92372 , Loss value : 7.444189e-05
+Batch size : 90627 , Loss value : 5.8270456e-05
+Batch size : 93839 , Loss value : 6.184071e-05
+Batch size : 92862 , Loss value : 6.523922e-05
+Batch size : 87311 , Loss value : 6.6781045e-05
+Batch size : 89661 , Loss value : 5.7931968e-05
+Batch size : 86772 , Loss value : 5.7107216e-05
+	Train Loss for this epoch : 7.042848e-05
+	Train Accuracy for this epoch: 0.9229491959916103
+	Validation Accuracy for this epoch: 0.846045197740113
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 72
+
+        p@1       p@3       p@5     loss  epoch trn/val
+0  0.389995  0.335404  0.279879  0.00007   72.0     trn
+        p@1      p@3       p@5  loss  epoch trn/val
+0  0.298469  0.27381  0.238265   0.0   72.0     val
+============================================================
+Epoch  73 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 98934 , Loss value : 6.359552e-05
+Batch size : 71526 , Loss value : 0.00014020903
+Batch size : 79128 , Loss value : 0.000106374
+Batch size : 101213 , Loss value : 7.6507386e-05
+Batch size : 92650 , Loss value : 7.627108e-05
+Batch size : 87253 , Loss value : 6.376531e-05
+Batch size : 101638 , Loss value : 7.283595e-05
+Batch size : 89773 , Loss value : 7.01806e-05
+Batch size : 87520 , Loss value : 7.128395e-05
+Batch size : 85152 , Loss value : 7.31796e-05
+Batch size : 86136 , Loss value : 6.8307374e-05
+Batch size : 80757 , Loss value : 5.736268e-05
+	Train Loss for this epoch : 7.832271e-05
+	Train Accuracy for this epoch: 0.9225413656490329
+	Validation Accuracy for this epoch: 0.847457627118644
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 73
+
+        p@1      p@3       p@5      loss  epoch trn/val
+0  0.390951  0.33413  0.279847  0.000078   73.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.289541  0.272959  0.240306   0.0   73.0     val
+============================================================
+Epoch  74 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 92306 , Loss value : 6.1686136e-05
+Batch size : 55572 , Loss value : 0.00024074966
+Batch size : 92600 , Loss value : 7.54931e-05
+Batch size : 85971 , Loss value : 9.3468436e-05
+Batch size : 80636 , Loss value : 8.2665014e-05
+Batch size : 80730 , Loss value : 8.5885076e-05
+Batch size : 84631 , Loss value : 7.829235e-05
+Batch size : 85651 , Loss value : 6.2479405e-05
+Batch size : 85520 , Loss value : 7.291422e-05
+Batch size : 81626 , Loss value : 7.23932e-05
+Batch size : 86779 , Loss value : 8.309323e-05
+Batch size : 78712 , Loss value : 6.629014e-05
+	Train Loss for this epoch : 8.9617504e-05
+	Train Accuracy for this epoch: 0.9249300862269867
+	Validation Accuracy for this epoch: 0.8326271186440678
+model saved!
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 74
+
+        p@1       p@3       p@5     loss  epoch trn/val
+0  0.386172  0.332696  0.279178  0.00009   74.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.289541  0.269983  0.236735   0.0   74.0     val
+============================================================
+Epoch  75 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 88487 , Loss value : 6.815253e-05
+Batch size : 60937 , Loss value : 0.00019879888
+Batch size : 92902 , Loss value : 9.79872e-05
+Batch size : 92293 , Loss value : 7.73438e-05
+Batch size : 90238 , Loss value : 8.891622e-05
+Batch size : 96475 , Loss value : 7.0902934e-05
+Batch size : 87841 , Loss value : 7.914464e-05
+Batch size : 91265 , Loss value : 7.7521974e-05
+Batch size : 83340 , Loss value : 7.669066e-05
+Batch size : 89405 , Loss value : 6.273881e-05
+Batch size : 94290 , Loss value : 7.049201e-05
+Batch size : 85487 , Loss value : 7.750964e-05
+	Train Loss for this epoch : 8.718328e-05
+	Train Accuracy for this epoch: 0.9246096481006758
+	Validation Accuracy for this epoch: 0.8347457627118644
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 75
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.390792  0.333652  0.279305  0.000087   75.0     trn
+        p@1      p@3       p@5  loss  epoch trn/val
+0  0.295918  0.27466  0.242347   0.0   75.0     val
+============================================================
+Epoch  76 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 86642 , Loss value : 5.9902177e-05
+Batch size : 66807 , Loss value : 0.0001690244
+Batch size : 95122 , Loss value : 9.317234e-05
+Batch size : 89471 , Loss value : 8.990723e-05
+Batch size : 89913 , Loss value : 7.639865e-05
+Batch size : 102480 , Loss value : 7.718859e-05
+Batch size : 84737 , Loss value : 8.038006e-05
+Batch size : 82986 , Loss value : 8.102189e-05
+Batch size : 92876 , Loss value : 6.693256e-05
+Batch size : 90123 , Loss value : 6.980098e-05
+Batch size : 78712 , Loss value : 7.251785e-05
+Batch size : 84188 , Loss value : 6.221982e-05
+	Train Loss for this epoch : 8.3205545e-05
+	Train Accuracy for this epoch: 0.9256292239571196
+	Validation Accuracy for this epoch: 0.8394538606403014
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 76
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.383623  0.332271  0.279783  0.000083   76.0     trn
+       p@1       p@3       p@5  loss  epoch trn/val
+0  0.30102  0.268707  0.236224   0.0   76.0     val
+============================================================
+Epoch  77 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 80860 , Loss value : 7.311118e-05
+Batch size : 82467 , Loss value : 0.00016595896
+Batch size : 88326 , Loss value : 0.00010547837
+Batch size : 94131 , Loss value : 7.590252e-05
+Batch size : 97570 , Loss value : 6.936609e-05
+Batch size : 83735 , Loss value : 7.377861e-05
+Batch size : 85732 , Loss value : 8.714116e-05
+Batch size : 86991 , Loss value : 6.9310314e-05
+Batch size : 82643 , Loss value : 8.512079e-05
+Batch size : 92701 , Loss value : 6.4830514e-05
+Batch size : 93082 , Loss value : 6.5389446e-05
+Batch size : 85887 , Loss value : 7.232785e-05
+	Train Loss for this epoch : 8.3976316e-05
+	Train Accuracy for this epoch: 0.9229200652528549
+	Validation Accuracy for this epoch: 0.83545197740113
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 77
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.392863  0.337635  0.280006  0.000084   77.0     trn
+       p@1       p@3       p@5  loss  epoch trn/val
+0  0.30102  0.267857  0.234184   0.0   77.0     val
+============================================================
+Epoch  78 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 87044 , Loss value : 5.8912934e-05
+Batch size : 55251 , Loss value : 0.0003645189
+Batch size : 86802 , Loss value : 0.00010391595
+Batch size : 82556 , Loss value : 0.000103863145
+Batch size : 98829 , Loss value : 9.1221635e-05
+Batch size : 94347 , Loss value : 9.25244e-05
+Batch size : 90480 , Loss value : 9.977181e-05
+Batch size : 88089 , Loss value : 0.00011158703
+Batch size : 91088 , Loss value : 8.558654e-05
+Batch size : 82018 , Loss value : 8.529944e-05
+Batch size : 82656 , Loss value : 7.739265e-05
+Batch size : 87672 , Loss value : 7.963906e-05
+	Train Loss for this epoch : 0.0001128528
+	Train Accuracy for this epoch: 0.9272605453274295
+	Validation Accuracy for this epoch: 0.83545197740113
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 78
+
+        p@1       p@3      p@5      loss  epoch trn/val
+0  0.389836  0.334449  0.27972  0.000113   78.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.315051  0.272109  0.239796   0.0   78.0     val
+============================================================
+Epoch  79 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 83406 , Loss value : 7.508133e-05
+Batch size : 81166 , Loss value : 0.00013874806
+Batch size : 88484 , Loss value : 7.6068456e-05
+Batch size : 83275 , Loss value : 8.26265e-05
+Batch size : 83734 , Loss value : 7.293598e-05
+Batch size : 88267 , Loss value : 6.958394e-05
+Batch size : 88145 , Loss value : 7.686779e-05
+Batch size : 93974 , Loss value : 7.2552844e-05
+Batch size : 82634 , Loss value : 7.161242e-05
+Batch size : 91761 , Loss value : 7.242261e-05
+Batch size : 89096 , Loss value : 6.359679e-05
+Batch size : 87411 , Loss value : 5.8844915e-05
+	Train Loss for this epoch : 7.757847e-05
+	Train Accuracy for this epoch: 0.9253087858308087
+	Validation Accuracy for this epoch: 0.8342749529190208
+model saved!
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 79
+
+        p@1       p@3     p@5      loss  epoch trn/val
+0  0.389995  0.332059  0.2787  0.000078   79.0     trn
+       p@1       p@3      p@5  loss  epoch trn/val
+0  0.30102  0.268707  0.23801   0.0   79.0     val
+============================================================
+Epoch  80 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 85195 , Loss value : 6.875438e-05
+Batch size : 69512 , Loss value : 0.00016251589
+Batch size : 97797 , Loss value : 7.924958e-05
+Batch size : 89466 , Loss value : 8.303391e-05
+Batch size : 87012 , Loss value : 7.168969e-05
+Batch size : 85927 , Loss value : 7.099174e-05
+Batch size : 84744 , Loss value : 8.5703556e-05
+Batch size : 91007 , Loss value : 6.8908084e-05
+Batch size : 79826 , Loss value : 6.552915e-05
+Batch size : 83908 , Loss value : 8.157108e-05
+Batch size : 84924 , Loss value : 7.459854e-05
+Batch size : 87966 , Loss value : 7.5071e-05
+	Train Loss for this epoch : 8.230138e-05
+	Train Accuracy for this epoch: 0.9251922628757865
+	Validation Accuracy for this epoch: 0.8483992467043314
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 80
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.390314  0.334661  0.279369  0.000082   80.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.294643  0.277636  0.239796   0.0   80.0     val
+============================================================
+Epoch  81 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 78446 , Loss value : 7.344742e-05
+Batch size : 62224 , Loss value : 0.00024815465
+Batch size : 83893 , Loss value : 9.0603e-05
+Batch size : 87129 , Loss value : 9.3509676e-05
+Batch size : 82420 , Loss value : 0.000101989164
+Batch size : 83857 , Loss value : 9.057711e-05
+Batch size : 91664 , Loss value : 9.016413e-05
+Batch size : 91696 , Loss value : 7.7186145e-05
+Batch size : 94108 , Loss value : 7.238582e-05
+Batch size : 81249 , Loss value : 7.536256e-05
+Batch size : 86934 , Loss value : 7.800686e-05
+Batch size : 83908 , Loss value : 7.777208e-05
+	Train Loss for this epoch : 9.742988e-05
+	Train Accuracy for this epoch: 0.9267653227685854
+	Validation Accuracy for this epoch: 0.847693032015066
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 81
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.396686  0.335511  0.279592  0.000097   81.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.308673  0.277636  0.238776   0.0   81.0     val
+============================================================
+Epoch  82 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 91455 , Loss value : 7.912311e-05
+Batch size : 57527 , Loss value : 0.0002247427
+Batch size : 95505 , Loss value : 0.000105556035
+Batch size : 79504 , Loss value : 9.513224e-05
+Batch size : 103901 , Loss value : 8.5301865e-05
+Batch size : 89416 , Loss value : 9.259875e-05
+Batch size : 83568 , Loss value : 8.376007e-05
+Batch size : 84871 , Loss value : 7.985913e-05
+Batch size : 81688 , Loss value : 7.436676e-05
+Batch size : 89663 , Loss value : 8.121387e-05
+Batch size : 77391 , Loss value : 7.7382e-05
+Batch size : 93541 , Loss value : 7.133219e-05
+	Train Loss for this epoch : 9.586406e-05
+	Train Accuracy for this epoch: 0.9247553017944535
+	Validation Accuracy for this epoch: 0.8392184557438794
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 82
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.390792  0.334767  0.280006  0.000096   82.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.299745  0.279762  0.239541   0.0   82.0     val
+============================================================
+Epoch  83 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 84834 , Loss value : 7.356234e-05
+Batch size : 71260 , Loss value : 0.00013914084
+Batch size : 93657 , Loss value : 8.310626e-05
+Batch size : 86356 , Loss value : 8.944582e-05
+Batch size : 87789 , Loss value : 7.2106974e-05
+Batch size : 86433 , Loss value : 9.1255875e-05
+Batch size : 89179 , Loss value : 7.546033e-05
+Batch size : 86581 , Loss value : 8.192269e-05
+Batch size : 85208 , Loss value : 6.77695e-05
+Batch size : 90826 , Loss value : 7.396693e-05
+Batch size : 88984 , Loss value : 6.688397e-05
+Batch size : 83914 , Loss value : 6.5676795e-05
+	Train Loss for this epoch : 8.169152e-05
+	Train Accuracy for this epoch: 0.92647401538103
+	Validation Accuracy for this epoch: 0.8408662900188324
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 83
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.392544  0.336042  0.280134  0.000082   83.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.298469  0.275935  0.240306   0.0   83.0     val
+============================================================
+Epoch  84 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 88262 , Loss value : 5.756673e-05
+Batch size : 60884 , Loss value : 0.00021459695
+Batch size : 106087 , Loss value : 6.997916e-05
+Batch size : 93930 , Loss value : 8.3151885e-05
+Batch size : 89723 , Loss value : 7.1616785e-05
+Batch size : 86668 , Loss value : 6.5507855e-05
+Batch size : 86274 , Loss value : 7.9824036e-05
+Batch size : 85025 , Loss value : 8.3631225e-05
+Batch size : 86490 , Loss value : 6.5989974e-05
+Batch size : 86448 , Loss value : 8.690385e-05
+Batch size : 77033 , Loss value : 7.7735574e-05
+Batch size : 85314 , Loss value : 6.740583e-05
+	Train Loss for this epoch : 8.5325824e-05
+	Train Accuracy for this epoch: 0.926357492426008
+	Validation Accuracy for this epoch: 0.8453389830508474
+model saved!
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 84
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.397483  0.334714  0.278573  0.000085   84.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.315051  0.280612  0.243622   0.0   84.0     val
+============================================================
+Epoch  85 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 86147 , Loss value : 6.5552566e-05
+Batch size : 53243 , Loss value : 0.00034736726
+Batch size : 93773 , Loss value : 0.00011835642
+Batch size : 84438 , Loss value : 0.00010266494
+Batch size : 82847 , Loss value : 0.0001052913
+Batch size : 80706 , Loss value : 9.9994584e-05
+Batch size : 79364 , Loss value : 9.495904e-05
+Batch size : 87664 , Loss value : 8.213933e-05
+Batch size : 88885 , Loss value : 8.332526e-05
+Batch size : 87757 , Loss value : 8.5495216e-05
+Batch size : 82669 , Loss value : 7.207621e-05
+Batch size : 84097 , Loss value : 7.575316e-05
+	Train Loss for this epoch : 0.00011108128
+	Train Accuracy for this epoch: 0.9282218597063622
+	Validation Accuracy for this epoch: 0.8366290018832392
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 85
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.396208  0.335829  0.279592  0.000111   85.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.320153  0.278061  0.241837   0.0   85.0     val
+============================================================
+Epoch  86 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 85858 , Loss value : 7.806696e-05
+Batch size : 93739 , Loss value : 0.00010431811
+Batch size : 94153 , Loss value : 8.447437e-05
+Batch size : 89147 , Loss value : 7.317866e-05
+Batch size : 89142 , Loss value : 7.244849e-05
+Batch size : 81824 , Loss value : 7.3025076e-05
+Batch size : 96306 , Loss value : 6.425282e-05
+Batch size : 80661 , Loss value : 6.615482e-05
+Batch size : 75060 , Loss value : 6.469411e-05
+Batch size : 89871 , Loss value : 6.153185e-05
+Batch size : 101004 , Loss value : 6.1264494e-05
+Batch size : 86453 , Loss value : 6.313895e-05
+	Train Loss for this epoch : 7.221239e-05
+	Train Accuracy for this epoch: 0.9288918666977395
+	Validation Accuracy for this epoch: 0.8422787193973634
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 86
+
+        p@1      p@3       p@5      loss  epoch trn/val
+0  0.394137  0.33721  0.280261  0.000072   86.0     trn
+        p@1      p@3       p@5  loss  epoch trn/val
+0  0.303571  0.27381  0.237245   0.0   86.0     val
+============================================================
+Epoch  87 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 87061 , Loss value : 5.8725433e-05
+Batch size : 99309 , Loss value : 9.299666e-05
+Batch size : 107547 , Loss value : 7.159477e-05
+Batch size : 84528 , Loss value : 6.480646e-05
+Batch size : 88535 , Loss value : 6.7034576e-05
+Batch size : 83017 , Loss value : 7.427917e-05
+Batch size : 79721 , Loss value : 7.559758e-05
+Batch size : 89219 , Loss value : 6.107486e-05
+Batch size : 83766 , Loss value : 6.9047695e-05
+Batch size : 81774 , Loss value : 5.9392867e-05
+Batch size : 82829 , Loss value : 5.896383e-05
+Batch size : 90476 , Loss value : 5.2112453e-05
+	Train Loss for this epoch : 6.713553e-05
+	Train Accuracy for this epoch: 0.9275227219762293
+	Validation Accuracy for this epoch: 0.8453389830508474
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 87
+
+        p@1      p@3       p@5      loss  epoch trn/val
+0  0.396208  0.33498  0.280102  0.000067   87.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.317602  0.289116  0.244898   0.0   87.0     val
+============================================================
+Epoch  88 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 84328 , Loss value : 5.7823505e-05
+Batch size : 75682 , Loss value : 0.00010009049
+Batch size : 93675 , Loss value : 7.540946e-05
+Batch size : 85421 , Loss value : 6.1921186e-05
+Batch size : 89442 , Loss value : 7.615507e-05
+Batch size : 98518 , Loss value : 6.44162e-05
+Batch size : 90731 , Loss value : 6.564427e-05
+Batch size : 91946 , Loss value : 5.6954384e-05
+Batch size : 88345 , Loss value : 5.3996737e-05
+Batch size : 86198 , Loss value : 5.063116e-05
+Batch size : 83123 , Loss value : 5.464633e-05
+Batch size : 80629 , Loss value : 5.5305925e-05
+	Train Loss for this epoch : 6.441623e-05
+	Train Accuracy for this epoch: 0.927726637147518
+	Validation Accuracy for this epoch: 0.8361581920903954
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 88
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.395571  0.334449  0.279783  0.000064   88.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.313776  0.280187  0.240051   0.0   88.0     val
+============================================================
+Epoch  89 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 80654 , Loss value : 5.352247e-05
+Batch size : 79951 , Loss value : 0.00010357652
+Batch size : 87595 , Loss value : 6.39319e-05
+Batch size : 87259 , Loss value : 6.4510816e-05
+Batch size : 82674 , Loss value : 6.1795276e-05
+Batch size : 85624 , Loss value : 6.0496026e-05
+Batch size : 88872 , Loss value : 6.332998e-05
+Batch size : 86262 , Loss value : 6.4187814e-05
+Batch size : 91634 , Loss value : 5.799657e-05
+Batch size : 84596 , Loss value : 7.7066994e-05
+Batch size : 86925 , Loss value : 5.240665e-05
+Batch size : 86032 , Loss value : 5.048e-05
+	Train Loss for this epoch : 6.444175e-05
+	Train Accuracy for this epoch: 0.9274935912374738
+	Validation Accuracy for this epoch: 0.8439265536723164
+model saved!
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 89
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.394615  0.335192  0.279337  0.000064   89.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.306122  0.275085  0.240306   0.0   89.0     val
+============================================================
+Epoch  90 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 84238 , Loss value : 5.086293e-05
+Batch size : 74779 , Loss value : 0.0001585585
+Batch size : 87385 , Loss value : 6.906567e-05
+Batch size : 88740 , Loss value : 7.671233e-05
+Batch size : 85756 , Loss value : 6.960828e-05
+Batch size : 92076 , Loss value : 6.743427e-05
+Batch size : 86978 , Loss value : 7.4979085e-05
+Batch size : 78795 , Loss value : 6.9443595e-05
+Batch size : 89427 , Loss value : 6.704503e-05
+Batch size : 89643 , Loss value : 5.64719e-05
+Batch size : 87130 , Loss value : 5.5337667e-05
+Batch size : 88380 , Loss value : 7.564366e-05
+	Train Loss for this epoch : 7.426358e-05
+	Train Accuracy for this epoch: 0.926357492426008
+	Validation Accuracy for this epoch: 0.8380414312617702
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 90
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.398917  0.335351  0.279688  0.000074   90.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.307398  0.272109  0.236735   0.0   90.0     val
+============================================================
+Epoch  91 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 88856 , Loss value : 5.5799028e-05
+Batch size : 76958 , Loss value : 0.00013057119
+Batch size : 83228 , Loss value : 0.0001014813
+Batch size : 87473 , Loss value : 6.573837e-05
+Batch size : 91182 , Loss value : 7.595592e-05
+Batch size : 90184 , Loss value : 7.2399205e-05
+Batch size : 92428 , Loss value : 6.7303794e-05
+Batch size : 86186 , Loss value : 6.414733e-05
+Batch size : 88258 , Loss value : 6.337325e-05
+Batch size : 81317 , Loss value : 6.774763e-05
+Batch size : 85056 , Loss value : 6.5934255e-05
+Batch size : 91435 , Loss value : 5.6691217e-05
+	Train Loss for this epoch : 7.392854e-05
+	Train Accuracy for this epoch: 0.9274935912374738
+	Validation Accuracy for this epoch: 0.8387476459510358
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 91
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.396527  0.334714  0.279497  0.000074   91.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.318878  0.279337  0.236735   0.0   91.0     val
+============================================================
+Epoch  92 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 89667 , Loss value : 5.651887e-05
+Batch size : 69402 , Loss value : 0.00013171857
+Batch size : 81220 , Loss value : 7.123899e-05
+Batch size : 89417 , Loss value : 6.9522735e-05
+Batch size : 97573 , Loss value : 6.448672e-05
+Batch size : 89072 , Loss value : 6.5958666e-05
+Batch size : 77599 , Loss value : 6.240877e-05
+Batch size : 85101 , Loss value : 6.107489e-05
+Batch size : 84328 , Loss value : 5.8102145e-05
+Batch size : 81787 , Loss value : 5.5743178e-05
+Batch size : 85276 , Loss value : 5.7874957e-05
+Batch size : 83511 , Loss value : 6.174665e-05
+	Train Loss for this epoch : 6.8032925e-05
+	Train Accuracy for this epoch: 0.928920997436495
+	Validation Accuracy for this epoch: 0.8380414312617702
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 92
+
+       p@1       p@3       p@5      loss  epoch trn/val
+0  0.39589  0.336785  0.279019  0.000068   92.0     trn
+        p@1      p@3       p@5  loss  epoch trn/val
+0  0.297194  0.27466  0.238265   0.0   92.0     val
+============================================================
+Epoch  93 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 87945 , Loss value : 4.946683e-05
+Batch size : 81680 , Loss value : 0.00010484491
+Batch size : 86236 , Loss value : 6.876933e-05
+Batch size : 85071 , Loss value : 6.46555e-05
+Batch size : 87557 , Loss value : 7.031244e-05
+Batch size : 82844 , Loss value : 6.269086e-05
+Batch size : 82054 , Loss value : 7.553753e-05
+Batch size : 81843 , Loss value : 6.623975e-05
+Batch size : 96943 , Loss value : 5.9919188e-05
+Batch size : 87640 , Loss value : 5.9023565e-05
+Batch size : 89531 , Loss value : 5.6860667e-05
+Batch size : 84272 , Loss value : 5.6669916e-05
+	Train Loss for this epoch : 6.62492e-05
+	Train Accuracy for this epoch: 0.9279305523188068
+	Validation Accuracy for this epoch: 0.8389830508474576
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 93
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.389039  0.334502  0.280006  0.000066   93.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.308673  0.277636  0.241582   0.0   93.0     val
+============================================================
+Epoch  94 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 90456 , Loss value : 6.817204e-05
+Batch size : 78598 , Loss value : 9.317606e-05
+Batch size : 89820 , Loss value : 6.6816036e-05
+Batch size : 78545 , Loss value : 6.6156405e-05
+Batch size : 90449 , Loss value : 6.470305e-05
+Batch size : 88137 , Loss value : 5.963366e-05
+Batch size : 83709 , Loss value : 5.476029e-05
+Batch size : 91330 , Loss value : 5.502688e-05
+Batch size : 86888 , Loss value : 5.05742e-05
+Batch size : 88569 , Loss value : 4.9049082e-05
+Batch size : 74616 , Loss value : 5.4599866e-05
+Batch size : 86966 , Loss value : 4.510704e-05
+	Train Loss for this epoch : 6.0647886e-05
+	Train Accuracy for this epoch: 0.9274935912374738
+	Validation Accuracy for this epoch: 0.8408662900188324
+model saved!
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 94
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.398279  0.336838  0.281058  0.000061   94.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.302296  0.279337  0.238265   0.0   94.0     val
+============================================================
+Epoch  95 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 85308 , Loss value : 4.896004e-05
+Batch size : 88085 , Loss value : 9.623611e-05
+Batch size : 94497 , Loss value : 7.5909506e-05
+Batch size : 79558 , Loss value : 6.085399e-05
+Batch size : 72476 , Loss value : 6.8461035e-05
+Batch size : 89293 , Loss value : 5.621726e-05
+Batch size : 82010 , Loss value : 5.7851168e-05
+Batch size : 86427 , Loss value : 6.149098e-05
+Batch size : 86059 , Loss value : 5.0349558e-05
+Batch size : 81965 , Loss value : 5.1819774e-05
+Batch size : 85302 , Loss value : 5.622098e-05
+Batch size : 97092 , Loss value : 5.1240015e-05
+	Train Loss for this epoch : 6.130087e-05
+	Train Accuracy for this epoch: 0.9284257748776509
+	Validation Accuracy for this epoch: 0.8401600753295668
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 95
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.396208  0.336838  0.280516  0.000061   95.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.302296  0.274235  0.238776   0.0   95.0     val
+============================================================
+Epoch  96 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 87849 , Loss value : 4.648481e-05
+Batch size : 79036 , Loss value : 0.00011644159
+Batch size : 96842 , Loss value : 6.416238e-05
+Batch size : 81232 , Loss value : 6.62274e-05
+Batch size : 93352 , Loss value : 5.9903025e-05
+Batch size : 93006 , Loss value : 5.1255312e-05
+Batch size : 86686 , Loss value : 6.867493e-05
+Batch size : 81785 , Loss value : 6.2321415e-05
+Batch size : 85952 , Loss value : 6.446676e-05
+Batch size : 83647 , Loss value : 5.556948e-05
+Batch size : 80362 , Loss value : 5.2130075e-05
+Batch size : 82418 , Loss value : 6.392325e-05
+	Train Loss for this epoch : 6.42967e-05
+	Train Accuracy for this epoch: 0.9295910044278722
+	Validation Accuracy for this epoch: 0.8387476459510358
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 96
+
+        p@1      p@3       p@5      loss  epoch trn/val
+0  0.393181  0.33721  0.280612  0.000064   96.0     trn
+      p@1       p@3     p@5  loss  epoch trn/val
+0  0.3125  0.278061  0.2375   0.0   96.0     val
+============================================================
+Epoch  97 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 83930 , Loss value : 5.4018896e-05
+Batch size : 63347 , Loss value : 0.00013626064
+Batch size : 85120 , Loss value : 6.0960538e-05
+Batch size : 80205 , Loss value : 6.60185e-05
+Batch size : 91527 , Loss value : 6.302405e-05
+Batch size : 85415 , Loss value : 6.468646e-05
+Batch size : 85285 , Loss value : 5.5033113e-05
+Batch size : 83948 , Loss value : 6.408639e-05
+Batch size : 85436 , Loss value : 5.557111e-05
+Batch size : 87804 , Loss value : 6.2098225e-05
+Batch size : 82575 , Loss value : 5.0557905e-05
+Batch size : 92665 , Loss value : 4.9452436e-05
+	Train Loss for this epoch : 6.5147346e-05
+	Train Accuracy for this epoch: 0.9287753437427173
+	Validation Accuracy for this epoch: 0.83545197740113
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 97
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.389517  0.335882  0.279879  0.000065   97.0     trn
+        p@1       p@3       p@5  loss  epoch trn/val
+0  0.289541  0.271684  0.234439   0.0   97.0     val
+============================================================
+Epoch  98 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 76674 , Loss value : 6.1127575e-05
+Batch size : 69929 , Loss value : 0.00015520985
+Batch size : 98581 , Loss value : 6.524927e-05
+Batch size : 86959 , Loss value : 6.956924e-05
+Batch size : 91675 , Loss value : 6.6300876e-05
+Batch size : 90515 , Loss value : 5.3344233e-05
+Batch size : 89738 , Loss value : 5.9346134e-05
+Batch size : 91989 , Loss value : 6.103958e-05
+Batch size : 88166 , Loss value : 6.1564024e-05
+Batch size : 81916 , Loss value : 4.9621347e-05
+Batch size : 78914 , Loss value : 5.222199e-05
+Batch size : 81097 , Loss value : 5.119697e-05
+	Train Loss for this epoch : 6.714925e-05
+	Train Accuracy for this epoch: 0.9284549056164064
+	Validation Accuracy for this epoch: 0.8375706214689266
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 98
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.391429  0.332802  0.278063  0.000067   98.0     trn
+        p@1       p@3     p@5  loss  epoch trn/val
+0  0.313776  0.274235  0.2375   0.0   98.0     val
+============================================================
+Epoch  99 (0, 500, 0.001, 100, 3)
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Batch size : 93684 , Loss value : 5.0910545e-05
+Batch size : 90516 , Loss value : 0.000103821396
+Batch size : 86502 , Loss value : 5.848833e-05
+Batch size : 78758 , Loss value : 6.637097e-05
+Batch size : 85856 , Loss value : 6.170136e-05
+Batch size : 88034 , Loss value : 5.548243e-05
+Batch size : 85459 , Loss value : 6.326038e-05
+Batch size : 86239 , Loss value : 5.3668093e-05
+Batch size : 87706 , Loss value : 5.200275e-05
+Batch size : 85171 , Loss value : 6.01772e-05
+Batch size : 87997 , Loss value : 5.1994968e-05
+Batch size : 87018 , Loss value : 5.4115473e-05
+	Train Loss for this epoch : 6.099949e-05
+	Train Accuracy for this epoch: 0.9291540433465393
+	Validation Accuracy for this epoch: 0.8330979284369114
+model saved!
+/media/indirected/Local Disk/University/Work/Metrtic Learning/multilabel-deep-metric/src/utils.py:131: RuntimeWarning: Mean of empty slice
+  y_pred=np.nanmean(y_nbr,axis=1)
+Epoch : 99
+
+        p@1       p@3       p@5      loss  epoch trn/val
+0  0.397642  0.336254  0.280198  0.000061   99.0     trn
+        p@1      p@3       p@5  loss  epoch trn/val
+0  0.313776  0.27551  0.239031   0.0   99.0     val

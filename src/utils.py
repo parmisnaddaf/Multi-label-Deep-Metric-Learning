@@ -19,9 +19,10 @@ def make_batches(x_mat,y_mat,batch_size,shuffle=True):
 		start+=batch_size
 	return train_dataset
 
-def my_sim(y_batch, anchor_y, factors):
+def my_sim(y_batch_cp, anchor_y, factors):
+	y_batch = y_batch_cp
 	y_batch[np.where(y_batch == 0)] = -1
-	sims = np.sum((y_batch * (anchor_y*factors)) == 1, axis=1) / np.sum(np.logical_or((y_batch * (anchor_y*factors)) == 1, (y_batch * (anchor_y*factors))==-1), axis=1)
+	sims = np.sum((y_batch * (anchor_y*factors)) == 1, axis=1) #/ np.sum(np.logical_or((y_batch * (anchor_y*factors)) == 1, (y_batch * (anchor_y*factors))==-1), axis=1)
 	sims[np.where(np.isnan(sims))] = 0
 	return sims
 
@@ -62,19 +63,19 @@ def select_triplets(embeddings,y_batch,max_negatives_per_pos,max_trips_per_ancho
 			if len(zero_idcs)==0:
 				continue
 			num_negatives=np.minimum(max_negatives_per_pos,zero_idcs.shape[0])
-			# for _ in range(0,num_negatives):
-			# 	# choose a negative randomly, because there are a lot of negatives
-			# 	# and since as we go down the positive_idcs, the previous zero_idcs
-			# 	# is included, so we don't want to keep choosing the same negatives
-			# 	k=np.random.randint(0,len(zero_idcs))
-			# 	neg_idx=zero_idcs[k]
-			# 	triplets.append((i,
-			# 					distance_order[pos_idx],
-			# 					distance_order[neg_idx]))
-			# 	num_anchor_triplets+=1
-			# 	num_coarse+=1
-			# 	if debug:
-			# 		print((i,distance_order[pos_idx],distance_order[neg_idx]))
+			for _ in range(0,num_negatives):
+				# choose a negative randomly, because there are a lot of negatives
+				# and since as we go down the positive_idcs, the previous zero_idcs
+				# is included, so we don't want to keep choosing the same negatives
+				k=np.random.randint(0,len(zero_idcs))
+				neg_idx=zero_idcs[k]
+				triplets.append((i,
+								distance_order[pos_idx],
+								distance_order[neg_idx]))
+				num_anchor_triplets+=1
+				num_coarse+=1
+				if debug:
+					print((i,distance_order[pos_idx],distance_order[neg_idx]))
 			
 			if num_anchor_triplets>=max_trips_per_anchor:
 				break
@@ -119,7 +120,7 @@ def precision_at_k(y_tst,probs_pred,k):
 	for s_idx in range(0,y_tst.shape[0]):
 		best_labels=top_k[s_idx,:]
 		total+=np.nansum(y_tst[s_idx,best_labels])
-	p_at_k=total/(y_tst.shape[0])
+	p_at_k=total/y_tst.shape[0]
 	p_at_k=p_at_k/k
 	return p_at_k
 
